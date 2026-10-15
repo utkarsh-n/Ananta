@@ -1,0 +1,825 @@
+[
+  {
+    "id": "begin-with-curiosity",
+    "number": 1,
+    "title": "Begin with curiosity",
+    "subtitle": "A first map of a living tradition",
+    "minutes": 4,
+    "sections": [
+      {
+        "title": "Start with human questions",
+        "text": "How should I act? What am I? What can I trust when life changes? How can I relate to the divine? Hindu traditions offer many ways to explore these questions. Start by learning the questions; you do not need to memorize a pantheon before you can begin."
+      },
+      {
+        "title": "A family of traditions",
+        "text": "Hinduism has no single founder, worldwide governing institution, or one book that serves every community identically. Its histories include distinct languages, regions, rituals, philosophies, and devotional lineages. Similar words and stories create connections, while disagreements remain meaningful."
+      },
+      {
+        "title": "Three helpful lenses",
+        "text": "Ask what a text says, how a community interprets it, and how people live with it. These are connected but different questions. A prescription in an ancient book is not automatically a description of every Hindu household today. A family’s custom is not automatically a universal rule."
+      },
+      {
+        "title": "Learn names with relationships",
+        "text": "Begin with a few links: Krishna teaches Arjuna; Rama and Sita belong to the Ramayana; Vishnu, Shiva, and Devi are supreme in different devotional traditions. Brahman names ultimate reality in philosophical discussion, while Brahma names a creator deity. Return to the wiki whenever these relationships feel crowded."
+      },
+      {
+        "title": "Your first exercise",
+        "text": "Choose one question that interests you. Read the related wiki entry, follow a connected figure or concept, and bookmark a primary passage. This course gives you orientation. The library, sources, and living voices of communities are where your understanding can keep growing."
+      }
+    ],
+    "keyTerms": [
+      "dharma",
+      "krishna",
+      "shiva",
+      "devi",
+      "brahman",
+      "brahma"
+    ],
+    "bookIDs": [
+      "bhagavad-gita"
+    ],
+    "question": "What is the most useful starting assumption?",
+    "answers": [
+      "Every Hindu community follows exactly the same teachings.",
+      "Hindu traditions share connections while preserving meaningful differences.",
+      "A single book contains every authoritative Hindu teaching."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Look for the particular text, lineage, region, and setting. Shared vocabulary does not eliminate real differences.",
+    "sources": [
+      {
+        "title": "Harvard Pluralism Project — What does Hindu mean?",
+        "url": "https://pluralism.org/what-does-%E2%80%9Chindu%E2%80%9D-mean"
+      },
+      {
+        "title": "Harvard Pluralism Project — A context for diversity",
+        "url": "https://pluralism.org/a-context-for-diversity"
+      }
+    ]
+  },
+  {
+    "id": "map-the-library",
+    "number": 2,
+    "title": "Find your way through the library",
+    "subtitle": "Genre, language, and the history of a text",
+    "minutes": 5,
+    "sections": [
+      {
+        "title": "The Vedic landscape",
+        "text": "The four Vedas are the Rig, Sama, Yajur, and Atharva Vedas. They preserve hymns, ritual formulas, chants, and other materials through carefully maintained oral traditions. Their associated Brahmanas, Aranyakas, and Upanishads extend ritual reflection and inquiry. A Veda is a layered body of learning, not one uniform essay."
+      },
+      {
+        "title": "Heard and remembered",
+        "text": "Shruti, often explained as what is heard, usually designates the Vedic revelation. Smriti, what is remembered, encompasses influential transmitted literature such as epics and many other works. These categories concern authority within traditions; they are not a simple ranking of what is spiritually useful to every reader."
+      },
+      {
+        "title": "Choose a genre deliberately",
+        "text": "The Ramayana and Mahabharata tell stories through which ethical and theological questions unfold. Puranas develop divine narratives, cosmology, and sacred geography. Sutras condense a teaching into compact statements that often need commentary. A hymn asks to be heard as praise; it should not automatically be read like a philosophical definition."
+      },
+      {
+        "title": "Listen beyond Sanskrit",
+        "text": "Tamil devotional collections such as the Tevaram and Divya Prabandham are central to their communities. Many other languages carry treasured scripture, poetry, oral performance, and teaching. Sanskrit importance must not make regional literature look like an optional afterthought. This initial catalog is an expandable selection rather than a closed canon."
+      },
+      {
+        "title": "Know your edition",
+        "text": "Every translation makes choices. Look for translator, date, scope, and whether commentary is included. Older English editions can be useful and legally reusable while still containing dated vocabulary and interpretations. In this app, a guide, an abridgment, an original summary, and a bundled primary text are different kinds of content."
+      }
+    ],
+    "keyTerms": [
+      "vyasa",
+      "valmiki",
+      "vedanta",
+      "patanjali"
+    ],
+    "bookIDs": [
+      "rig-veda",
+      "upanishads",
+      "mahabharata",
+      "ramayana",
+      "tevaram",
+      "divya-prabandham"
+    ],
+    "question": "Why should you check a text’s genre and edition?",
+    "answers": [
+      "They reveal how the work is organized and what interpretive choices you are reading.",
+      "Every translation has exactly the same wording and scope.",
+      "Only a text written in Sanskrit can matter to Hindu communities."
+    ],
+    "correctAnswer": 0,
+    "explanation": "A verse hymn, a condensed sutra, a devotional poem, and an epic invite different reading strategies. Translation and scope also shape the reading.",
+    "sources": [
+      {
+        "title": "Harvard Pluralism Project — Veda: Scripture and authority",
+        "url": "https://pluralism.org/veda-scripture-and-authority"
+      },
+      {
+        "title": "Harvard Pluralism Project — The textures of tradition",
+        "url": "https://pluralism.org/the-textures-of-tradition"
+      },
+      {
+        "title": "Mahabharata, Adi Parva — K. M. Ganguli",
+        "url": "https://sacred-texts.com/hin/m01/index.htm"
+      }
+    ]
+  },
+  {
+    "id": "action-and-responsibility",
+    "number": 3,
+    "title": "Action and responsibility",
+    "subtitle": "Dharma and karma in a difficult world",
+    "minutes": 5,
+    "sections": [
+      {
+        "title": "What ought I to do?",
+        "text": "Dharma can include ethical conduct, sustaining order, responsibility, and a way of life. It becomes vivid when obligations conflict. Imagine a promise that would now harm someone: simply saying that promises matter does not settle what you should do. Hindu epics repeatedly explore this kind of difficulty."
+      },
+      {
+        "title": "The dice hall as a case study",
+        "text": "In the Mahabharata, Yudhishthira’s gambling leads to Draupadi being staked. She asks whether a man who has already lost himself has any right to stake her. Her question forces the court to confront the difference between a powerful person’s action and a morally legitimate action."
+      },
+      {
+        "title": "Karma means action",
+        "text": "Karma concerns action and its effects. Many Hindu traditions connect it with rebirth, while disagreeing about exactly how intention, ritual, knowledge, and grace operate. Karma is not a reason to give up effort: your present actions matter within the account."
+      },
+      {
+        "title": "Attention to the fruits",
+        "text": "The Bhagavad Gita teaches action without possessive attachment to its fruits. This does not mean careless work. A practical question is whether you can act conscientiously without making praise, status, or an imagined guarantee of success the sole measure of your action."
+      },
+      {
+        "title": "Use the ideas ethically",
+        "text": "Do not use karma to claim knowledge of why another person suffers. An observed hardship does not reveal a past life. Direct these ideas first toward responsibility, compassion, and the choices available now. When a text presents hierarchy or exclusion, study its context and the debates around it."
+      }
+    ],
+    "keyTerms": [
+      "dharma",
+      "karma",
+      "draupadi",
+      "yudhishthira",
+      "arjuna"
+    ],
+    "bookIDs": [
+      "bhagavad-gita",
+      "mahabharata",
+      "tirukkural"
+    ],
+    "question": "Which response best reflects responsible use of the idea of karma?",
+    "answers": [
+      "Assume that someone in hardship must deserve it.",
+      "Avoid action because every result is already fixed.",
+      "Examine your own actions and their consequences while responding compassionately to others."
+    ],
+    "correctAnswer": 2,
+    "explanation": "Karma emphasizes that actions matter. It does not give a reader evidence about the hidden cause of a particular person’s suffering.",
+    "sources": [
+      {
+        "title": "Harvard Pluralism Project — Dharma",
+        "url": "https://pluralism.org/dharma-the-social-order"
+      },
+      {
+        "title": "Mahabharata, Dutt’s abridgment, The fatal dice",
+        "url": "https://sacred-texts.com/hin/dutt/maha04.htm"
+      },
+      {
+        "title": "Bhagavad Gita 3 — Action",
+        "url": "https://sacred-texts.com/book/the-bhagavad-gita-2/read/chapter-3-virtue-in-work"
+      }
+    ]
+  },
+  {
+    "id": "self-and-freedom",
+    "number": 4,
+    "title": "The self and the possibility of freedom",
+    "subtitle": "Atman, samsara, and moksha",
+    "minutes": 5,
+    "sections": [
+      {
+        "title": "The question behind the question",
+        "text": "Bodies, moods, memories, and roles change. What, if anything, is the self through those changes? The Upanishads explore this problem with teachers and questioners. Atman is a key word, but translating it as soul does not settle all the philosophical questions it carries."
+      },
+      {
+        "title": "Maitreyi asks for more",
+        "text": "In the Brihadaranyaka Upanishad, Maitreyi asks whether wealth can confer immortality. When the answer is no, she asks for knowledge instead. Her question is not a demand that everyone abandon possessions; it exposes the limit of what possessions can accomplish."
+      },
+      {
+        "title": "The recurring condition",
+        "text": "Samsara is the cycle of birth, death, and rebirth. In many accounts, action and desire sustain this condition. A better rebirth or a heavenly stay can still be temporary. Moksha concerns release from bondage itself, which is why it differs from simply having a pleasant future."
+      },
+      {
+        "title": "Several accounts of liberation",
+        "text": "Advaita describes liberating knowledge of the self’s nonduality with Brahman. Vishishtadvaita and Dvaita preserve real distinctions between finite selves and the supreme Lord in different ways. Classical Yoga describes liberation through discerning consciousness from nature. These are serious differences, not interchangeable vocabulary."
+      },
+      {
+        "title": "Read a dialogue slowly",
+        "text": "Try the Katha Upanishad’s exchange between Nachiketa and Yama. List the tempting alternatives Nachiketa is offered, then identify the question he keeps asking. You can understand the structure of his search before deciding what you think of its answer."
+      }
+    ],
+    "keyTerms": [
+      "atman",
+      "brahman",
+      "samsara",
+      "moksha",
+      "maitreyi",
+      "nachiketa"
+    ],
+    "bookIDs": [
+      "upanishads",
+      "brihadaranyaka-upanishad",
+      "katha-upanishad"
+    ],
+    "question": "How does moksha differ from a favorable rebirth in many Hindu accounts?",
+    "answers": [
+      "Moksha means release from bondage, while a favorable rebirth can still be within samsara.",
+      "They always mean exactly the same thing.",
+      "Moksha means becoming the creator deity Brahma."
+    ],
+    "correctAnswer": 0,
+    "explanation": "A good experience within a recurring cycle is different from release from the cycle. Schools explain that release differently.",
+    "sources": [
+      {
+        "title": "Brihadaranyaka Upanishad 2.4 — Müller",
+        "url": "https://archive.sacred-texts.com/hin/sbe15/sbe15061.htm"
+      },
+      {
+        "title": "Brihadaranyaka Upanishad 4.4 — Müller",
+        "url": "https://archive.sacred-texts.com/hin/sbe15/sbe15076.htm"
+      },
+      {
+        "title": "Katha Upanishad 1.1 — Müller",
+        "url": "https://archive.sacred-texts.com/hin/sbe15/sbe15010.htm"
+      },
+      {
+        "title": "Katha Upanishad 1.2 — Müller",
+        "url": "https://archive.sacred-texts.com/hin/sbe15/sbe15011.htm"
+      },
+      {
+        "title": "Internet Encyclopedia of Philosophy — Samkhya",
+        "url": "https://iep.utm.edu/sankhya/"
+      }
+    ]
+  },
+  {
+    "id": "meeting-the-divine",
+    "number": 5,
+    "title": "Meeting the divine",
+    "subtitle": "Names, forms, and distinct relationships",
+    "minutes": 5,
+    "sections": [
+      {
+        "title": "Begin with the devotee’s setting",
+        "text": "A Vaishnava community may center Vishnu or Krishna; a Shaiva community, Shiva; a Shakta community, Devi. Some worship several deities while honoring a chosen form especially. The relationship among divine unity, plurality, and personal form is explained differently across traditions."
+      },
+      {
+        "title": "Avoid a rigid family tree",
+        "text": "Divine relationships are not always consistent across texts. A Goddess understood as a partner in one account may be supreme in another. The familiar triad of Brahma, Vishnu, and Shiva introduces cosmic functions, but does not summarize the theology of every tradition."
+      },
+      {
+        "title": "Look closely at an image",
+        "text": "A conch and discus can identify Vishnu; a trident or third eye may identify Shiva; a vina may identify Saraswati. Multiple arms communicate capacities within an artistic and theological language. The same deity can appear in several forms, so check context and provenance before assigning a meaning."
+      },
+      {
+        "title": "The Goddess at the center",
+        "text": "The Devi Mahatmya portrays the Goddess overcoming forces that the gods cannot defeat. In Shakta interpretation, her sovereignty is fundamental. Kali’s fierceness and Durga’s protection should be approached through their stories and worship, without assuming that unfamiliar imagery signifies evil."
+      },
+      {
+        "title": "Encounter and interpretation",
+        "text": "A murti in a consecrated temple may be approached as a divine presence. Darshan is an encounter of seeing and being seen. A museum label can teach iconography; a community can explain worship. Both offer knowledge, and neither alone captures every dimension of the image."
+      }
+    ],
+    "keyTerms": [
+      "vishnu",
+      "shiva",
+      "devi",
+      "durga",
+      "kali",
+      "darshan"
+    ],
+    "bookIDs": [
+      "vishnu-purana",
+      "devi-mahatmya",
+      "bhagavata-purana"
+    ],
+    "question": "What should you do when two texts give a deity different relationships or roles?",
+    "answers": [
+      "Discard whichever account is less familiar.",
+      "Identify each text’s tradition and interpretive setting.",
+      "Assume that one universal family tree must explain both."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Divine narratives serve different theological and devotional settings. Preserve the difference before trying to explain it.",
+    "sources": [
+      {
+        "title": "Harvard Pluralism Project — Many gods and one",
+        "url": "https://pluralism.org/many-gods-and-one"
+      },
+      {
+        "title": "The Met — Vishnu with Lakshmi and Sarasvati",
+        "url": "https://www.metmuseum.org/art/collection/search/38530"
+      },
+      {
+        "title": "Devi Mahatmya, chapter 2 — Pargiter, 1904",
+        "url": "https://www.wisdomlib.org/hinduism/book/the-markandeya-purana/d/doc117157.html"
+      },
+      {
+        "title": "Devi Mahatmya, chapter 11 — Pargiter, 1904",
+        "url": "https://www.wisdomlib.org/hinduism/book/the-markandeya-purana/d/doc117171.html"
+      },
+      {
+        "title": "Harvard Pluralism Project — Murti",
+        "url": "https://pluralism.org/murti-the-image-of-god"
+      }
+    ]
+  },
+  {
+    "id": "enter-the-ramayana",
+    "number": 6,
+    "title": "Enter the Ramayana",
+    "subtitle": "Exile, devotion, and contested duties",
+    "minutes": 6,
+    "sections": [
+      {
+        "title": "Know the starting relationships",
+        "text": "Rama is a prince of Ayodhya, Sita his wife, and Lakshmana his brother. A royal promise leads to Rama’s exile; Sita and Lakshmana accompany him. Bharata refuses to treat his brother’s absence as an opportunity to seize power."
+      },
+      {
+        "title": "Follow the central journey",
+        "text": "Ravana abducts Sita and holds her in Lanka. Rama allies with Sugriva’s vanaras, and Hanuman crosses the ocean to find her. Hanuman’s success involves observation, restraint, and reassurance, as well as extraordinary strength. War follows, and Rama returns to Ayodhya."
+      },
+      {
+        "title": "Let Sita speak",
+        "text": "Read Sita’s own decisions and arguments closely. She insists on accompanying Rama, rejects Ravana, and faces ordeals that later readers interpret in sharply different ways. Her dignity and suffering belong at the center of the reading rather than at the edge of the heroes’ adventure."
+      },
+      {
+        "title": "Follow devotion and difficulty",
+        "text": "Many worship Rama as an embodiment of dharma and Hanuman as a model of bhakti. At the same time, the treatment of Sita and other difficult episodes invite ethical debate. Describe a figure’s action accurately before deciding whether a text endorses it without qualification."
+      },
+      {
+        "title": "There are many Ramayanas",
+        "text": "Valmiki’s Sanskrit epic is only one major telling. Regional poems, oral performance, and traditions outside Hinduism reshape the story. Even an English translation may abbreviate or summarize sections. Compare versions by named source instead of asking which familiar retelling contains every possible detail."
+      }
+    ],
+    "keyTerms": [
+      "rama",
+      "sita",
+      "lakshmana",
+      "bharata",
+      "hanuman",
+      "ravana"
+    ],
+    "bookIDs": [
+      "ramayana"
+    ],
+    "question": "Which habit makes for a fuller reading of the Ramayana?",
+    "answers": [
+      "Track Sita’s agency and compare named versions alongside Rama’s journey.",
+      "Treat Sita only as the object of a rescue.",
+      "Assume every familiar modern scene appears in every ancient version."
+    ],
+    "correctAnswer": 0,
+    "explanation": "The epic’s ethical and emotional depth emerges through several voices. Identifying the version helps explain real differences.",
+    "sources": [
+      {
+        "title": "Ramayana, Dutt’s abridgment, Book II",
+        "url": "https://sacred-texts.com/hin/dutt/rama02.htm"
+      },
+      {
+        "title": "Ramayana, Dutt’s abridgment, Book IV",
+        "url": "https://sacred-texts.com/book/the-ramayana-and-mahabharata/read/book-iv-the-meeting-of-the-princes"
+      },
+      {
+        "title": "Ramayana, Dutt’s abridgment, Book VIII",
+        "url": "https://sacred-texts.com/hin/dutt/rama08.htm"
+      },
+      {
+        "title": "Ramayana, Dutt’s abridgment, Book XII",
+        "url": "https://sacred-texts.com/hin/dutt/rama12.htm"
+      },
+      {
+        "title": "Ramayana — R. T. H. Griffith, 1870–1874",
+        "url": "https://www.gutenberg.org/files/24869/24869-h/24869-h.html"
+      }
+    ]
+  },
+  {
+    "id": "enter-the-mahabharata",
+    "number": 7,
+    "title": "Enter the Mahabharata",
+    "subtitle": "Kinship, power, and the cost of war",
+    "minutes": 6,
+    "sections": [
+      {
+        "title": "Two branches of a family",
+        "text": "The Pandavas and Kauravas belong to the Kuru dynasty. The five Pandava brothers include Yudhishthira, Bhima, and Arjuna. Their cousins’ rivalry over sovereignty develops through inheritance, humiliation, exile, and unsuccessful efforts to prevent war."
+      },
+      {
+        "title": "A cast with competing loyalties",
+        "text": "Bhishma is bound to the throne by lifelong commitments. Karna is loyal to Duryodhana, who supports him, while his birth links him to the Pandavas. Kunti’s choices connect those stories. Learning a few relationships makes the epic much easier to navigate than memorizing a long list of names."
+      },
+      {
+        "title": "The assembly fails",
+        "text": "Draupadi’s challenge after the dice game is a central ethical turning point. Many powerful people are present, yet power does not produce protection or a clear answer. Watch what characters do, what they fail to do, and what they say afterward to justify themselves."
+      },
+      {
+        "title": "The Gita within the war",
+        "text": "The Bhagavad Gita occurs as Arjuna confronts the impending battle. It is one conversation within a much larger work that also includes statecraft, pilgrimage, instruction, family stories, and mourning. Reading the Gita’s setting keeps its urgency visible."
+      },
+      {
+        "title": "Victory is not simple repair",
+        "text": "The epic’s war is devastating even for the victors. Its moral imagination includes grief and the consequences of choices made under pressure. A useful notebook question is: whose account of duty is speaking here, and who bears the cost of that account?"
+      }
+    ],
+    "keyTerms": [
+      "arjuna",
+      "yudhishthira",
+      "bhima",
+      "draupadi",
+      "karna",
+      "kunti",
+      "bhishma"
+    ],
+    "bookIDs": [
+      "mahabharata",
+      "bhagavad-gita"
+    ],
+    "question": "Why is it useful to track relationships in the Mahabharata?",
+    "answers": [
+      "The relationships prove that every character is morally identical.",
+      "They explain conflicting loyalties and make ethical choices more intelligible.",
+      "They let you ignore the consequences of the war."
+    ],
+    "correctAnswer": 1,
+    "explanation": "The conflict is a family and political crisis. Relationships explain why a character’s choice can be both understandable and troubling.",
+    "sources": [
+      {
+        "title": "Mahabharata, Adi Parva — K. M. Ganguli",
+        "url": "https://sacred-texts.com/hin/m01/index.htm"
+      },
+      {
+        "title": "Mahabharata, Dutt’s abridgment, The fatal dice",
+        "url": "https://sacred-texts.com/hin/dutt/maha04.htm"
+      },
+      {
+        "title": "Mahabharata, Dutt’s abridgment, Fall of Bhishma",
+        "url": "https://sacred-texts.com/hin/dutt/maha08.htm"
+      },
+      {
+        "title": "Mahabharata, Dutt’s abridgment, Fall of Karna",
+        "url": "https://sacred-texts.com/hin/dutt/maha10.htm"
+      },
+      {
+        "title": "Mahabharata Book VI, Gita chapters — K. M. Ganguli",
+        "url": "https://www.gutenberg.org/ebooks/15475"
+      }
+    ]
+  },
+  {
+    "id": "the-gita-as-dialogue",
+    "number": 8,
+    "title": "Read the Gita as a conversation",
+    "subtitle": "What Krishna teaches, and why Arjuna asks",
+    "minutes": 6,
+    "sections": [
+      {
+        "title": "Begin with the refusal",
+        "text": "Arjuna sees people he loves and respects among those he may have to fight. He questions the value of victory under those conditions. Read the first chapter before collecting famous quotations: the teaching responds to this crisis."
+      },
+      {
+        "title": "Action, understanding, devotion",
+        "text": "Krishna teaches about the enduring self, disciplined action, knowledge, meditation, and devotion. These strands interact. A single verse detached from the discussion can seem to settle a question that the larger dialogue treats with more care."
+      },
+      {
+        "title": "What detachment asks",
+        "text": "Acting without attachment to the fruits does not require indifference to skill or to others. It challenges the idea that you fully own outcomes or should make self-serving reward your only motive. The exact relationship between duty and renunciation develops across the dialogue."
+      },
+      {
+        "title": "The universal form",
+        "text": "In chapter 11, Arjuna sees a vast divine form containing creation and destruction. Awe becomes fear as ordinary categories break down. The vision is a theological revelation within the story; a visual experience in this app can introduce its imagery, but cannot reproduce a sacred experience."
+      },
+      {
+        "title": "Compare interpretations",
+        "text": "Advaita, Vishishtadvaita, Dvaita, and modern readers interpret the Gita differently. Some foreground knowledge, others devotion or action. Read a passage in context, then compare a named commentary. Keep the translator’s explanation separate from the text’s spoken lines."
+      }
+    ],
+    "keyTerms": [
+      "krishna",
+      "arjuna",
+      "karma",
+      "atman",
+      "bhakti",
+      "dharma"
+    ],
+    "bookIDs": [
+      "bhagavad-gita"
+    ],
+    "question": "Why begin the Bhagavad Gita with Arjuna’s crisis?",
+    "answers": [
+      "It shows the question and relationships to which Krishna’s teaching responds.",
+      "It eliminates the need to read later chapters.",
+      "It proves that every sentence should be applied literally to every situation."
+    ],
+    "correctAnswer": 0,
+    "explanation": "The dialogue’s setting gives its philosophical teaching urgency and context. It also helps prevent isolated quotations from replacing interpretation.",
+    "sources": [
+      {
+        "title": "Bhagavad Gita 1 — Arjuna’s crisis",
+        "url": "https://sacred-texts.com/book/the-bhagavad-gita-2/read/chapter-1-of-the-distress-of-arjuna"
+      },
+      {
+        "title": "Bhagavad Gita 2 — The self and action",
+        "url": "https://sacred-texts.com/book/the-bhagavad-gita-2/read/chapter-2-of-doctrines"
+      },
+      {
+        "title": "Bhagavad Gita 3 — Action",
+        "url": "https://sacred-texts.com/book/the-bhagavad-gita-2/read/chapter-3-virtue-in-work"
+      },
+      {
+        "title": "Bhagavad Gita 11 — The universal form",
+        "url": "https://sacred-texts.com/book/the-bhagavad-gita-2/read/chapter-11"
+      },
+      {
+        "title": "Mahabharata Book VI, Gita chapters — K. M. Ganguli",
+        "url": "https://www.gutenberg.org/ebooks/15475"
+      }
+    ]
+  },
+  {
+    "id": "paths-of-practice",
+    "number": 9,
+    "title": "Paths of practice",
+    "subtitle": "Learning through action, attention, and love",
+    "minutes": 5,
+    "sections": [
+      {
+        "title": "A helpful orientation",
+        "text": "Karma yoga emphasizes disciplined action; jnana concerns liberating knowledge; bhakti emphasizes devotion. These labels help organize a first encounter, but many communities combine them. Daily service can be devotional, and careful study can transform the way a person acts."
+      },
+      {
+        "title": "The eight limbs of Yoga",
+        "text": "Classical Yoga names restraints, observances, posture, breath regulation, withdrawal of the senses, concentration, meditation, and samadhi. The list situates physical practice within ethical and contemplative aims. Patanjali’s yoga is a philosophical discipline, not simply a historical name for every modern exercise practice."
+      },
+      {
+        "title": "Knowledge as transformation",
+        "text": "In the Upanishadic setting, learning involves questions about the knower and the limits of familiar identities. Teachers use analogies such as a chariot or salt dissolved in water. An analogy clarifies one relation; it should not be pressed into a literal explanation of everything."
+      },
+      {
+        "title": "Devotion has an intellect",
+        "text": "Songs, recitation, temple worship, and service can cultivate a relation with the divine. Devotional communities also reason about grace, the self, and liberation. Avoid assuming that a person must choose between emotional depth and careful thought."
+      },
+      {
+        "title": "A small study practice",
+        "text": "Read one passage slowly, summarize it in your own words, and write one unresolved question. Revisit it after reading a related entry. This is a learning exercise anyone can try; specialized ritual, intense breath practice, and lineage commitments require guidance appropriate to that tradition."
+      }
+    ],
+    "keyTerms": [
+      "yoga",
+      "patanjali",
+      "bhakti",
+      "karma",
+      "nachiketa"
+    ],
+    "bookIDs": [
+      "yoga-sutras",
+      "bhagavad-gita",
+      "upanishads"
+    ],
+    "question": "Which statement best describes the relationship among paths of practice?",
+    "answers": [
+      "All traditions keep action, knowledge, and devotion completely separate.",
+      "Posture is the entirety of classical Yoga.",
+      "Action, knowledge, and devotion can reinforce one another in practice."
+    ],
+    "correctAnswer": 2,
+    "explanation": "The categories are useful, but lived traditions often combine them. Classical Yoga also includes ethical and contemplative dimensions.",
+    "sources": [
+      {
+        "title": "Yoga Sutras — Charles Johnston, 1912",
+        "url": "https://www.gutenberg.org/ebooks/2526"
+      },
+      {
+        "title": "Bhagavad Gita 3 — Action",
+        "url": "https://sacred-texts.com/book/the-bhagavad-gita-2/read/chapter-3-virtue-in-work"
+      },
+      {
+        "title": "Katha Upanishad 1.3 — Müller",
+        "url": "https://sacred-texts.com/hin/sbe15/sbe15012.htm"
+      },
+      {
+        "title": "Harvard Pluralism Project — Bhakti",
+        "url": "https://pluralism.org/bhakti-the-way-of-devotion"
+      }
+    ]
+  },
+  {
+    "id": "schools-in-conversation",
+    "number": 10,
+    "title": "Schools in conversation",
+    "subtitle": "Learn to notice a real disagreement",
+    "minutes": 6,
+    "sections": [
+      {
+        "title": "What makes a philosophical school?",
+        "text": "A darshana is a way of seeing and reasoning, with arguments, texts, teachers, and debates. The familiar six-school arrangement names Nyaya, Vaisheshika, Samkhya, Yoga, Mimamsa, and Vedanta. It is a useful map of classical discussion, not a complete census of Hindu thought."
+      },
+      {
+        "title": "Three Vedanta examples",
+        "text": "Shankara’s Advaita emphasizes nonduality. Ramanuja’s Vishishtadvaita affirms real selves and world within dependence on the supreme reality. Madhva’s Dvaita insists on real distinction between God and selves. Each interprets foundational texts; calling one interpretation simply Hindu philosophy obscures the conversation."
+      },
+      {
+        "title": "Different kinds of classification",
+        "text": "Vaishnava, Shaiva, and Shakta identify broad devotional orientations. Advaita and Dvaita identify philosophical positions. These maps overlap but are not identical. Smarta traditions often combine reverence for multiple deities with an Advaita framework; actual communities are more varied than a tidy chart."
+      },
+      {
+        "title": "Neighbors with their own identities",
+        "text": "Hindu traditions developed alongside Buddhist, Jain, Sikh, Islamic, Christian, and other communities. Concepts and practices can travel across boundaries. Shared vocabulary or a shared homeland does not make those other religions branches of Hinduism."
+      },
+      {
+        "title": "Read claims with care",
+        "text": "Ask what a source is doing: devotional proclamation, philosophical argument, social prescription, historical study, or modern reform? Respectful reading can examine caste, gender, and exclusion without reducing a whole tradition to a single passage. Distinguish what people ought to do in a text from what they actually did in history."
+      }
+    ],
+    "keyTerms": [
+      "vedanta",
+      "shankara",
+      "ramanuja",
+      "madhva",
+      "brahman",
+      "atman"
+    ],
+    "bookIDs": [
+      "brahma-sutras",
+      "upanishads",
+      "bhagavad-gita"
+    ],
+    "question": "Why are Vaishnava and Advaita not simply two names on the same kind of list?",
+    "answers": [
+      "One is primarily a devotional orientation and the other a philosophical position.",
+      "They refer to the same teacher.",
+      "Both mean that all philosophical differences are unreal."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Devotional affiliation and philosophical interpretation are different dimensions. They can overlap in more than one way.",
+    "sources": [
+      {
+        "title": "Internet Encyclopedia of Philosophy — Hindu philosophy",
+        "url": "https://iep.utm.edu/hindu-ph/"
+      },
+      {
+        "title": "Internet Encyclopedia of Philosophy — Advaita Vedanta",
+        "url": "https://iep.utm.edu/advaita-vedanta/"
+      },
+      {
+        "title": "Internet Encyclopedia of Philosophy — Ramanuja",
+        "url": "https://iep.utm.edu/ramanuja/"
+      },
+      {
+        "title": "Internet Encyclopedia of Philosophy — Madhva",
+        "url": "https://iep.utm.edu/madhva/"
+      },
+      {
+        "title": "Harvard Pluralism Project — A context for diversity",
+        "url": "https://pluralism.org/a-context-for-diversity"
+      }
+    ]
+  },
+  {
+    "id": "time-and-cosmos",
+    "number": 11,
+    "title": "Time and the cosmos",
+    "subtitle": "Explore a sacred model without losing its context",
+    "minutes": 5,
+    "sections": [
+      {
+        "title": "More than one beginning",
+        "text": "Hindu texts offer several accounts of origins. Rig Veda 10.129 asks searching questions about the beginning and the limits of knowing it. Puranic narratives often describe cycles of manifestation and dissolution. These are not chapters of one uniform cosmology that all texts state identically."
+      },
+      {
+        "title": "Four ages within a cycle",
+        "text": "A common Puranic sequence is Krita or Satya, Treta, Dvapara, and Kali. Their proportions are unequal, commonly 4:3:2:1. In the corresponding human-year reckoning the whole cycle is 4.32 million years. These numbers belong to the described religious model."
+      },
+      {
+        "title": "Days and nights of Brahma",
+        "text": "One thousand four-age cycles make a day of Brahma in this model, or 4.32 billion human years. A night of equal length follows. The imagery joins immense duration with recurring renewal. Brahma here is the deity, distinct from the philosophical term Brahman."
+      },
+      {
+        "title": "Story and symbol",
+        "text": "The ocean-churning story brings devas and asuras into a difficult cooperation; treasures and dangers emerge. Nataraja’s dance places creation, protection, and dissolution together in one image. The scenes ask theological and ethical questions as well as supplying a sequence of events."
+      },
+      {
+        "title": "Use the visual thoughtfully",
+        "text": "Move through the app’s scenes and read each source note. A slider is a teaching device for sequence and proportion, not an instrument measuring cosmic history. Keep traditional duration, artistic interpretation, and empirical scientific models distinguishable while asking what each is trying to explain."
+      }
+    ],
+    "keyTerms": [
+      "yuga",
+      "kalpa",
+      "brahma",
+      "vishnu",
+      "shiva",
+      "lakshmi"
+    ],
+    "bookIDs": [
+      "rig-veda",
+      "vishnu-purana",
+      "bhagavad-gita"
+    ],
+    "question": "What does the app’s Puranic time visualization represent?",
+    "answers": [
+      "A scientifically measured history of the universe.",
+      "A specified traditional model that helps explain cycles and proportions.",
+      "A timeline found identically in every Hindu text."
+    ],
+    "correctAnswer": 1,
+    "explanation": "The visualization teaches one named religious cosmology. It should preserve its sources and its limits.",
+    "sources": [
+      {
+        "title": "Rig Veda 10.129 — Creation hymn, Griffith",
+        "url": "https://sacred-texts.com/hin/rigveda/rv10129.htm"
+      },
+      {
+        "title": "Vishnu Purana 1.3 — Cosmic time",
+        "url": "https://sacred-texts.com/hin/vp/vp037.htm"
+      },
+      {
+        "title": "Vishnu Purana 1.9 — Lakshmi and the ocean",
+        "url": "https://sacred-texts.com/hin/vp/vp044.htm"
+      },
+      {
+        "title": "The Met — Shiva as Lord of Dance",
+        "url": "https://www.metmuseum.org/art/collection/search/39328"
+      }
+    ]
+  },
+  {
+    "id": "a-living-tradition",
+    "number": 12,
+    "title": "A living tradition",
+    "subtitle": "Home, temple, festival, and your next step",
+    "minutes": 5,
+    "sections": [
+      {
+        "title": "Religion in ordinary life",
+        "text": "Learning Hinduism involves meals, music, care, storytelling, family customs, pilgrimage, and service as well as books. Some households keep a daily altar; others practice differently. Region, language, migration, generation, and personal conviction all shape lived experience."
+      },
+      {
+        "title": "Offerings and encounter",
+        "text": "Puja may include flowers, light, water, food, and recitation. Darshan describes seeing and being seen by the divine. At a temple, ask a host or attendant about local etiquette. Different spaces can have different rules, and observing respectfully is a legitimate way to learn."
+      },
+      {
+        "title": "A calendar with many centers",
+        "text": "Diwali is associated with light and, in many Hindu settings, Lakshmi; other communities emphasize different narratives. Navaratri centers forms of the Goddess in diverse regional celebrations. Festival dates depend on calendars and locality, so a cultural overview should not substitute for a local schedule."
+      },
+      {
+        "title": "Listen to more than one voice",
+        "text": "Seek teachers and practitioners from different regions, genders, social backgrounds, and philosophical lineages. Communities contain debate as well as continuity. Stories of reform, exclusion, belonging, and migration are part of the tradition’s lived history, not distractions from an imagined unchanging essence."
+      },
+      {
+        "title": "Build your next reading path",
+        "text": "Choose an entry point: the Gita for a sustained dialogue, an Upanishad for inquiry into the self, the epics for ethical narrative, or a devotional collection for the language of love. Read one work carefully, follow its wiki links, and compare a second interpretation. Completing this course is a beginning, not a claim to have exhausted Hinduism."
+      }
+    ],
+    "keyTerms": [
+      "puja",
+      "darshan",
+      "bhakti",
+      "lakshmi",
+      "durga"
+    ],
+    "bookIDs": [
+      "bhagavad-gita",
+      "upanishads",
+      "ramayana",
+      "mahabharata",
+      "tevaram",
+      "divya-prabandham"
+    ],
+    "question": "What is a good next step after this introductory course?",
+    "answers": [
+      "Assume that one teacher speaks for every Hindu.",
+      "Choose a primary work, read carefully, and compare named interpretations and living perspectives.",
+      "Treat finishing twelve lessons as complete mastery of Hinduism."
+    ],
+    "correctAnswer": 1,
+    "explanation": "A durable understanding grows through careful reading, comparison, and listening. The course provides orientation for that continuing work.",
+    "sources": [
+      {
+        "title": "Harvard Pluralism Project — The textures of tradition",
+        "url": "https://pluralism.org/the-textures-of-tradition"
+      },
+      {
+        "title": "Harvard Pluralism Project — Lamp offerings",
+        "url": "https://pluralism.org/lamp-offerings-hindu-worship"
+      },
+      {
+        "title": "Harvard Pluralism Project — Temple and image",
+        "url": "https://pluralism.org/abodes-of-god-temple-and-image"
+      },
+      {
+        "title": "Harvard Pluralism Project — Divali",
+        "url": "https://pluralism.org/divali"
+      },
+      {
+        "title": "Harvard Pluralism Project — Navaratri",
+        "url": "https://pluralism.org/navaratri"
+      }
+    ]
+  }
+]

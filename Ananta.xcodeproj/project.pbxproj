@@ -1,0 +1,623 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 77;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		1942FCABF5C0380D3572A71C /* search.sqlite in Resources */ = {isa = PBXBuildFile; fileRef = 062BBB8309C856505D858D9F /* search.sqlite */; };
+		2E5F6EB1572676EC523F6821 /* SearchView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C9FFDC3B5574B3C4ABE824F6 /* SearchView.swift */; };
+		576BA836AB436B2617256EFA /* Content.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5AD9672093421A1524B35A51 /* Content.swift */; };
+		5D99BE01663F157F7966323A /* Theme.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8453C602B068ACB1DA95C96C /* Theme.swift */; };
+		5EECC403BAB5EEEB426997D5 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 72508A44D6EC4EEA393B9C64 /* Assets.xcassets */; };
+		634816474020D32B1B3B48AE /* library.json in Resources */ = {isa = PBXBuildFile; fileRef = 9D779E59410216054361A361 /* library.json */; };
+		6BF9159F81588A7ABEBD6B06 /* LibraryView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D8A8C6ABE5C98A6CE557FBC3 /* LibraryView.swift */; };
+		7C2ED029D261ECEE57E9D70D /* AnantaUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B3EC3BF3D468B0F216595FBC /* AnantaUITests.swift */; };
+		94F04F1ED4E61EF439E3DDC0 /* SearchEngine.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD6E7FE4BAFF68AB4A3FB474 /* SearchEngine.swift */; };
+		959584FD8B3563004B57EE9F /* JourneyView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A227845BF22E758CC8C5787B /* JourneyView.swift */; };
+		A299222BA900BE32C899D97D /* LearningStore.swift in Sources */ = {isa = PBXBuildFile; fileRef = B2FA4FC06D95E2CD001275C6 /* LearningStore.swift */; };
+		B06B314BB064BC7C6F94ED70 /* knowledge.json in Resources */ = {isa = PBXBuildFile; fileRef = 022457672CFE2452D0601272 /* knowledge.json */; };
+		C65C30291ABF31191D8EDBA4 /* libsqlite3.tbd in Frameworks */ = {isa = PBXBuildFile; fileRef = 277AA82D7F90A31C9E215572 /* libsqlite3.tbd */; };
+		D79AB71686BEC5E9917B4297 /* AnantaApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = FAEFABCABC8197931E26DF47 /* AnantaApp.swift */; };
+		DB4D08F016CF056DD5F6E0F5 /* ReaderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA605CDAA62E8B017DB8191C /* ReaderView.swift */; };
+		DCDE0B92C88475264FB906FB /* CosmosView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C10DF9992AE069001C4CE22 /* CosmosView.swift */; };
+		E74A098CF953DC8D083F67AD /* AnantaTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B6C1A30542F79131598A797 /* AnantaTests.swift */; };
+		EB67A20E7DA0F88562F2BD6D /* AtlasView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1ED81066849B1E11B3D64BFE /* AtlasView.swift */; };
+		EC85EC16854B0DC0A9171C64 /* lessons.json in Resources */ = {isa = PBXBuildFile; fileRef = D458586FA4391F53F7CB2A73 /* lessons.json */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		3A2CDE59299A74B93F42011A /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = BAE6109631BD0443B8D3D09B /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 608C8269D8CAEDB009F4B2AD;
+			remoteInfo = Ananta;
+		};
+		7762B622279D138D741581CE /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = BAE6109631BD0443B8D3D09B /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 608C8269D8CAEDB009F4B2AD;
+			remoteInfo = Ananta;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		022457672CFE2452D0601272 /* knowledge.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = knowledge.json; sourceTree = "<group>"; };
+		062BBB8309C856505D858D9F /* search.sqlite */ = {isa = PBXFileReference; lastKnownFileType = file; path = search.sqlite; sourceTree = "<group>"; };
+		1DD05E22280D71030CAEF3AC /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
+		1ED81066849B1E11B3D64BFE /* AtlasView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AtlasView.swift; sourceTree = "<group>"; };
+		26421ECEF76EFCC81609D653 /* AnantaUITests.xctest */ = {isa = PBXFileReference; includeInIndex = 0; lastKnownFileType = wrapper.cfbundle; path = AnantaUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		277AA82D7F90A31C9E215572 /* libsqlite3.tbd */ = {isa = PBXFileReference; lastKnownFileType = "sourcecode.text-based-dylib-definition"; name = libsqlite3.tbd; path = usr/lib/libsqlite3.tbd; sourceTree = SDKROOT; };
+		4C10DF9992AE069001C4CE22 /* CosmosView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CosmosView.swift; sourceTree = "<group>"; };
+		5AD9672093421A1524B35A51 /* Content.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Content.swift; sourceTree = "<group>"; };
+		6BAF9EB61056B275E97D456E /* AnantaTests.xctest */ = {isa = PBXFileReference; includeInIndex = 0; lastKnownFileType = wrapper.cfbundle; path = AnantaTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		72508A44D6EC4EEA393B9C64 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		8453C602B068ACB1DA95C96C /* Theme.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Theme.swift; sourceTree = "<group>"; };
+		9B6C1A30542F79131598A797 /* AnantaTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnantaTests.swift; sourceTree = "<group>"; };
+		9D779E59410216054361A361 /* library.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = library.json; sourceTree = "<group>"; };
+		A227845BF22E758CC8C5787B /* JourneyView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JourneyView.swift; sourceTree = "<group>"; };
+		AA605CDAA62E8B017DB8191C /* ReaderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReaderView.swift; sourceTree = "<group>"; };
+		B2FA4FC06D95E2CD001275C6 /* LearningStore.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LearningStore.swift; sourceTree = "<group>"; };
+		B3EC3BF3D468B0F216595FBC /* AnantaUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnantaUITests.swift; sourceTree = "<group>"; };
+		C9FFDC3B5574B3C4ABE824F6 /* SearchView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchView.swift; sourceTree = "<group>"; };
+		CD0DCE72DF8F6E74B232AE85 /* Ananta.app */ = {isa = PBXFileReference; includeInIndex = 0; lastKnownFileType = wrapper.application; path = Ananta.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		D458586FA4391F53F7CB2A73 /* lessons.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = lessons.json; sourceTree = "<group>"; };
+		D8A8C6ABE5C98A6CE557FBC3 /* LibraryView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LibraryView.swift; sourceTree = "<group>"; };
+		DD6E7FE4BAFF68AB4A3FB474 /* SearchEngine.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchEngine.swift; sourceTree = "<group>"; };
+		FAEFABCABC8197931E26DF47 /* AnantaApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnantaApp.swift; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		B78ABF82D856DBB8819362C6 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				C65C30291ABF31191D8EDBA4 /* libsqlite3.tbd in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		2BA95BA33BD18CC039C444DF /* AnantaTests */ = {
+			isa = PBXGroup;
+			children = (
+				9B6C1A30542F79131598A797 /* AnantaTests.swift */,
+			);
+			path = AnantaTests;
+			sourceTree = "<group>";
+		};
+		3A970721837F12B3DAD0AF84 = {
+			isa = PBXGroup;
+			children = (
+				53F74F4E7E9A1B09679B687A /* Ananta */,
+				2BA95BA33BD18CC039C444DF /* AnantaTests */,
+				54D89F438C443D25FE63D0A8 /* AnantaUITests */,
+				EB4F55D7D215C4CEE082EC55 /* Frameworks */,
+				C3BC28C1494F26AAF600DB06 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		53F74F4E7E9A1B09679B687A /* Ananta */ = {
+			isa = PBXGroup;
+			children = (
+				FAEFABCABC8197931E26DF47 /* AnantaApp.swift */,
+				1DD05E22280D71030CAEF3AC /* Info.plist */,
+				F161082EC18D6A05B430BD88 /* Models */,
+				CF5EFFDA66AC26C0FB53C6DC /* Resources */,
+				5E93B31EB8AA958276CE4FCC /* Views */,
+			);
+			path = Ananta;
+			sourceTree = "<group>";
+		};
+		54D89F438C443D25FE63D0A8 /* AnantaUITests */ = {
+			isa = PBXGroup;
+			children = (
+				B3EC3BF3D468B0F216595FBC /* AnantaUITests.swift */,
+			);
+			path = AnantaUITests;
+			sourceTree = "<group>";
+		};
+		5E93B31EB8AA958276CE4FCC /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				1ED81066849B1E11B3D64BFE /* AtlasView.swift */,
+				4C10DF9992AE069001C4CE22 /* CosmosView.swift */,
+				A227845BF22E758CC8C5787B /* JourneyView.swift */,
+				D8A8C6ABE5C98A6CE557FBC3 /* LibraryView.swift */,
+				AA605CDAA62E8B017DB8191C /* ReaderView.swift */,
+				C9FFDC3B5574B3C4ABE824F6 /* SearchView.swift */,
+				8453C602B068ACB1DA95C96C /* Theme.swift */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		C3BC28C1494F26AAF600DB06 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				CD0DCE72DF8F6E74B232AE85 /* Ananta.app */,
+				6BAF9EB61056B275E97D456E /* AnantaTests.xctest */,
+				26421ECEF76EFCC81609D653 /* AnantaUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		CF5EFFDA66AC26C0FB53C6DC /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				72508A44D6EC4EEA393B9C64 /* Assets.xcassets */,
+				022457672CFE2452D0601272 /* knowledge.json */,
+				D458586FA4391F53F7CB2A73 /* lessons.json */,
+				9D779E59410216054361A361 /* library.json */,
+				062BBB8309C856505D858D9F /* search.sqlite */,
+			);
+			path = Resources;
+			sourceTree = "<group>";
+		};
+		EB4F55D7D215C4CEE082EC55 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				277AA82D7F90A31C9E215572 /* libsqlite3.tbd */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		F161082EC18D6A05B430BD88 /* Models */ = {
+			isa = PBXGroup;
+			children = (
+				5AD9672093421A1524B35A51 /* Content.swift */,
+				B2FA4FC06D95E2CD001275C6 /* LearningStore.swift */,
+				DD6E7FE4BAFF68AB4A3FB474 /* SearchEngine.swift */,
+			);
+			path = Models;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		608C8269D8CAEDB009F4B2AD /* Ananta */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 5B2DB1001354985C3011F0A8 /* Build configuration list for PBXNativeTarget "Ananta" */;
+			buildPhases = (
+				5FAA4711D5867D3A9E1FE2D3 /* Sources */,
+				F452A4F1226DFDA6D82C663B /* Resources */,
+				B78ABF82D856DBB8819362C6 /* Frameworks */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = Ananta;
+			packageProductDependencies = (
+			);
+			productName = Ananta;
+			productReference = CD0DCE72DF8F6E74B232AE85 /* Ananta.app */;
+			productType = "com.apple.product-type.application";
+		};
+		96E75319C5C2C1F5517E2541 /* AnantaUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 0CC133D1E310C7A27F5CCA69 /* Build configuration list for PBXNativeTarget "AnantaUITests" */;
+			buildPhases = (
+				9C41FBB8FE2BC81295778E6B /* Sources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				931C497E54D487051A1A6C9D /* PBXTargetDependency */,
+			);
+			name = AnantaUITests;
+			packageProductDependencies = (
+			);
+			productName = AnantaUITests;
+			productReference = 26421ECEF76EFCC81609D653 /* AnantaUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+		B53CAA55DE1F77C9381B84A2 /* AnantaTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 7F3611C39D3ED7299CBBFC75 /* Build configuration list for PBXNativeTarget "AnantaTests" */;
+			buildPhases = (
+				144522ABB319B78F0D20BDCF /* Sources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				146877E6E3C995D2637C0E30 /* PBXTargetDependency */,
+			);
+			name = AnantaTests;
+			packageProductDependencies = (
+			);
+			productName = AnantaTests;
+			productReference = 6BAF9EB61056B275E97D456E /* AnantaTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		BAE6109631BD0443B8D3D09B /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = YES;
+				LastUpgradeCheck = 2700;
+				TargetAttributes = {
+					608C8269D8CAEDB009F4B2AD = {
+
+						ProvisioningStyle = Automatic;
+					};
+					96E75319C5C2C1F5517E2541 = {
+
+						ProvisioningStyle = Automatic;
+						TestTargetID = 608C8269D8CAEDB009F4B2AD;
+					};
+					B53CAA55DE1F77C9381B84A2 = {
+
+						ProvisioningStyle = Automatic;
+					};
+				};
+			};
+			buildConfigurationList = C2542E9E12E2ADBE6C42A6FD /* Build configuration list for PBXProject "Ananta" */;
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				Base,
+				en,
+			);
+			mainGroup = 3A970721837F12B3DAD0AF84;
+			minimizedProjectReferenceProxies = 1;
+			preferredProjectObjectVersion = 77;
+			productRefGroup = C3BC28C1494F26AAF600DB06 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				608C8269D8CAEDB009F4B2AD /* Ananta */,
+				B53CAA55DE1F77C9381B84A2 /* AnantaTests */,
+				96E75319C5C2C1F5517E2541 /* AnantaUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		F452A4F1226DFDA6D82C663B /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				5EECC403BAB5EEEB426997D5 /* Assets.xcassets in Resources */,
+				B06B314BB064BC7C6F94ED70 /* knowledge.json in Resources */,
+				EC85EC16854B0DC0A9171C64 /* lessons.json in Resources */,
+				634816474020D32B1B3B48AE /* library.json in Resources */,
+				1942FCABF5C0380D3572A71C /* search.sqlite in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		144522ABB319B78F0D20BDCF /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				E74A098CF953DC8D083F67AD /* AnantaTests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		5FAA4711D5867D3A9E1FE2D3 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				D79AB71686BEC5E9917B4297 /* AnantaApp.swift in Sources */,
+				EB67A20E7DA0F88562F2BD6D /* AtlasView.swift in Sources */,
+				576BA836AB436B2617256EFA /* Content.swift in Sources */,
+				DCDE0B92C88475264FB906FB /* CosmosView.swift in Sources */,
+				959584FD8B3563004B57EE9F /* JourneyView.swift in Sources */,
+				A299222BA900BE32C899D97D /* LearningStore.swift in Sources */,
+				6BF9159F81588A7ABEBD6B06 /* LibraryView.swift in Sources */,
+				DB4D08F016CF056DD5F6E0F5 /* ReaderView.swift in Sources */,
+				94F04F1ED4E61EF439E3DDC0 /* SearchEngine.swift in Sources */,
+				2E5F6EB1572676EC523F6821 /* SearchView.swift in Sources */,
+				5D99BE01663F157F7966323A /* Theme.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		9C41FBB8FE2BC81295778E6B /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				7C2ED029D261ECEE57E9D70D /* AnantaUITests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		146877E6E3C995D2637C0E30 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 608C8269D8CAEDB009F4B2AD /* Ananta */;
+			targetProxy = 3A2CDE59299A74B93F42011A /* PBXContainerItemProxy */;
+		};
+		931C497E54D487051A1A6C9D /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 608C8269D8CAEDB009F4B2AD /* Ananta */;
+			targetProxy = 7762B622279D138D741581CE /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		01868CDDBF4BD6138CC10AB8 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_STYLE = Automatic;
+				COPY_PHASE_STRIP = NO;
+				CURRENT_PROJECT_VERSION = 1;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				DEVELOPMENT_TEAM = "";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
+				MARKETING_VERSION = 1.0;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				SWIFT_VERSION = 5.0;
+			};
+			name = Release;
+		};
+		1F17332CBC5A265C7D29F019 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				GENERATE_INFOPLIST_FILE = YES;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.utkarsh.AnantaUITests;
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = Ananta;
+			};
+			name = Release;
+		};
+		28E2B6ABB6CA3E560F298CD6 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				INFOPLIST_FILE = Ananta/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.utkarsh.ananta;
+				PRODUCT_MODULE_NAME = Ananta;
+				PRODUCT_NAME = "Hindu App";
+				SDKROOT = iphoneos;
+				SUPPORTS_MACCATALYST = NO;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		2DD732C506AF8DBAA54368F5 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				INFOPLIST_FILE = Ananta/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.utkarsh.ananta;
+				PRODUCT_MODULE_NAME = Ananta;
+				PRODUCT_NAME = "Hindu App";
+				SDKROOT = iphoneos;
+				SUPPORTS_MACCATALYST = NO;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		5F7622A251EE15FFF3D1FF62 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				GENERATE_INFOPLIST_FILE = YES;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.utkarsh.AnantaUITests;
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = Ananta;
+			};
+			name = Debug;
+		};
+		74DCA476D20138182592A183 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				GENERATE_INFOPLIST_FILE = YES;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.utkarsh.AnantaTests;
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Ananta.app/Ananta";
+			};
+			name = Release;
+		};
+		97B428A4FCA8B96D6D027C87 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				GENERATE_INFOPLIST_FILE = YES;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.utkarsh.AnantaTests;
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Ananta.app/Ananta";
+			};
+			name = Debug;
+		};
+		BECA8AA0901F91EB92015090 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_STYLE = Automatic;
+				COPY_PHASE_STRIP = NO;
+				CURRENT_PROJECT_VERSION = 1;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				DEVELOPMENT_TEAM = "";
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"$(inherited)",
+					"DEBUG=1",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
+				MARKETING_VERSION = 1.0;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				SWIFT_VERSION = 5.0;
+			};
+			name = Debug;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		0CC133D1E310C7A27F5CCA69 /* Build configuration list for PBXNativeTarget "AnantaUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				5F7622A251EE15FFF3D1FF62 /* Debug */,
+				1F17332CBC5A265C7D29F019 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Debug;
+		};
+		5B2DB1001354985C3011F0A8 /* Build configuration list for PBXNativeTarget "Ananta" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				2DD732C506AF8DBAA54368F5 /* Debug */,
+				28E2B6ABB6CA3E560F298CD6 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Debug;
+		};
+		7F3611C39D3ED7299CBBFC75 /* Build configuration list for PBXNativeTarget "AnantaTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				97B428A4FCA8B96D6D027C87 /* Debug */,
+				74DCA476D20138182592A183 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Debug;
+		};
+		C2542E9E12E2ADBE6C42A6FD /* Build configuration list for PBXProject "Ananta" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				BECA8AA0901F91EB92015090 /* Debug */,
+				01868CDDBF4BD6138CC10AB8 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Debug;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = BAE6109631BD0443B8D3D09B /* Project object */;
+}

@@ -1,0 +1,3211 @@
+[
+  {
+    "id": "krishna",
+    "name": "Krishna",
+    "sanskrit": "कृष्ण · Kṛṣṇa",
+    "kind": "Deity",
+    "subtitle": "Friend, teacher, beloved",
+    "summary": "Krishna is revered as Vishnu’s avatar and, in several Vaishnava traditions, as the supreme divine person.",
+    "body": [
+      {
+        "title": "In the Gita",
+        "text": "Krishna serves as Arjuna’s charioteer during the Mahabharata war. When Arjuna cannot decide how to act, their dialogue explores the self, responsible action, devotion, and liberation. Krishna’s revelation of his universal form expands the conversation beyond the immediate battlefield."
+      },
+      {
+        "title": "Many relationships",
+        "text": "Devotees approach Krishna as a child, friend, beloved, and Lord. The Bhagavata Purana develops his childhood and pastoral stories; the Gita centers his teaching. These settings illuminate different relationships with the divine and should not be collapsed into one simple biography."
+      }
+    ],
+    "traditions": [
+      "Vaishnava",
+      "Krishna bhakti"
+    ],
+    "aliases": [
+      "Krsna",
+      "Govinda",
+      "Gopala",
+      "Vasudeva"
+    ],
+    "relatedIDs": [
+      "vishnu",
+      "arjuna",
+      "bhakti",
+      "avatar",
+      "dharma",
+      "radha",
+      "balarama"
+    ],
+    "bookIDs": [
+      "bhagavad-gita",
+      "bhagavata-purana",
+      "mahabharata"
+    ],
+    "sources": [
+      {
+        "title": "Bhagavad Gita 1 — Arjuna’s crisis",
+        "url": "https://sacred-texts.com/book/the-bhagavad-gita-2/read/chapter-1-of-the-distress-of-arjuna"
+      },
+      {
+        "title": "Bhagavad Gita 11 — The universal form",
+        "url": "https://sacred-texts.com/book/the-bhagavad-gita-2/read/chapter-11"
+      },
+      {
+        "title": "Harvard Pluralism Project — Bhakti",
+        "url": "https://pluralism.org/bhakti-the-way-of-devotion"
+      },
+      {
+        "title": "Mahabharata Book VI, Gita chapters — K. M. Ganguli",
+        "url": "https://www.gutenberg.org/ebooks/15475"
+      }
+    ],
+    "symbol": "sparkles"
+  },
+  {
+    "id": "vishnu",
+    "name": "Vishnu",
+    "sanskrit": "विष्णु · Viṣṇu",
+    "kind": "Deity",
+    "subtitle": "Sustaining the cosmos",
+    "summary": "Vishnu is revered as the sustaining Lord and as the supreme reality in Vaishnava traditions.",
+    "body": [
+      {
+        "title": "Beyond one role",
+        "text": "The familiar creator–preserver–destroyer triad is a useful introduction, but it does not exhaust Vaishnava theology. The Vishnu Purana presents Vishnu as the source, support, and end of existence, rather than only one specialist within a cosmic division of labor."
+      },
+      {
+        "title": "Recognizing an image",
+        "text": "A conch, discus, mace, and lotus often identify Vishnu. His forms and avatars include Rama and Krishna. Lakshmi is closely associated with him; the meaning of their relationship is developed differently across devotional communities."
+      }
+    ],
+    "traditions": [
+      "Vaishnava"
+    ],
+    "aliases": [
+      "Visnu",
+      "Narayana",
+      "Hari"
+    ],
+    "relatedIDs": [
+      "krishna",
+      "rama",
+      "lakshmi",
+      "avatar",
+      "brahma"
+    ],
+    "bookIDs": [
+      "vishnu-purana",
+      "bhagavata-purana",
+      "bhagavad-gita"
+    ],
+    "sources": [
+      {
+        "title": "Vishnu Purana 1.1 — H. H. Wilson, 1840",
+        "url": "https://sacred-texts.com/hin/vp/vp035.htm"
+      },
+      {
+        "title": "The Met — Vishnu with Lakshmi and Sarasvati",
+        "url": "https://www.metmuseum.org/art/collection/search/38530"
+      }
+    ],
+    "symbol": "sparkles"
+  },
+  {
+    "id": "shiva",
+    "name": "Shiva",
+    "sanskrit": "शिव · Śiva",
+    "kind": "Deity",
+    "subtitle": "Stillness and transformation",
+    "summary": "Shiva is revered as the supreme Lord in Shaiva traditions and appears as ascetic, householder, dancer, and teacher.",
+    "body": [
+      {
+        "title": "Holding apparent opposites",
+        "text": "Shiva’s many forms join withdrawal from the world with intimacy in it. He meditates as an ascetic, lives with Parvati as a householder, and dances as Nataraja. Calling him only the destroyer misses his roles in grace, renewal, and liberation."
+      },
+      {
+        "title": "Reading symbols",
+        "text": "The third eye, crescent moon, matted hair, trident, and sacred river Ganga are frequent visual signs. The linga is a principal sacred form of Shiva. Its significance is established by tradition and worship, not by reducing every image to a single literal explanation."
+      }
+    ],
+    "traditions": [
+      "Shaiva"
+    ],
+    "aliases": [
+      "Siva",
+      "Mahadeva",
+      "Nataraja",
+      "Shankara"
+    ],
+    "relatedIDs": [
+      "parvati",
+      "ganga",
+      "shakti",
+      "yoga"
+    ],
+    "bookIDs": [
+      "shiva-purana",
+      "tevaram",
+      "shvetashvatara-upanishad"
+    ],
+    "sources": [
+      {
+        "title": "The Metropolitan Museum of Art — Hinduism and Hindu art",
+        "url": "https://www.metmuseum.org/essays/hinduism-and-hindu-art"
+      },
+      {
+        "title": "Rubin Museum — Hindu gods and goddesses",
+        "url": "https://rubinmuseum.org/highlights/hindu-gods-and-goddesses/"
+      },
+      {
+        "title": "The Met — Shiva as Lord of Dance",
+        "url": "https://www.metmuseum.org/art/collection/search/39328"
+      }
+    ],
+    "symbol": "moon.stars"
+  },
+  {
+    "id": "devi",
+    "name": "Devi",
+    "sanskrit": "देवी · Devī",
+    "kind": "Deity",
+    "subtitle": "The Goddess in many forms",
+    "summary": "Devi means goddess; in Shakta traditions, the Goddess is the supreme reality and power from which the cosmos unfolds.",
+    "body": [
+      {
+        "title": "One name, many presences",
+        "text": "Devi can refer broadly to a goddess or to the Great Goddess, Mahadevi. Durga, Kali, Lakshmi, Saraswati, and many local goddesses have distinct stories and forms of worship. Some communities see them as forms of one supreme Goddess."
+      },
+      {
+        "title": "A sovereign divine presence",
+        "text": "The Goddess is not adequately described as merely a male deity’s partner. Shakta texts center her sovereignty, protection, and liberating knowledge. Devotees may address her as Mother while also honoring her fierce and challenging forms."
+      }
+    ],
+    "traditions": [
+      "Shakta",
+      "Regional goddess traditions"
+    ],
+    "aliases": [
+      "Mahadevi",
+      "Divine Mother"
+    ],
+    "relatedIDs": [
+      "durga",
+      "kali",
+      "shakti",
+      "parvati",
+      "lakshmi",
+      "saraswati"
+    ],
+    "bookIDs": [
+      "devi-mahatmya"
+    ],
+    "sources": [
+      {
+        "title": "Harvard Pluralism Project — Many Ma’s",
+        "url": "https://pluralism.org/many-ma%E2%80%99s-goddess-in-america"
+      },
+      {
+        "title": "Devi Mahatmya, chapter 11 — Pargiter, 1904",
+        "url": "https://www.wisdomlib.org/hinduism/book/the-markandeya-purana/d/doc117171.html"
+      }
+    ],
+    "symbol": "sparkles"
+  },
+  {
+    "id": "durga",
+    "name": "Durga",
+    "sanskrit": "दुर्गा · Durgā",
+    "kind": "Deity",
+    "subtitle": "Protection with many arms",
+    "summary": "Durga is the powerful Goddess celebrated for defeating Mahisha, the buffalo asura, and protecting the world.",
+    "body": [
+      {
+        "title": "The Devi Mahatmya",
+        "text": "In the Devi Mahatmya, divine powers converge in the Goddess, who defeats forces the gods cannot overcome. Her many arms and weapons express capacities acting together. The episode belongs to a theological account of her supremacy."
+      },
+      {
+        "title": "Living celebration",
+        "text": "Durga Puja can celebrate both cosmic victory and the Goddess’s return to her family. In Bengal, this homecoming gives the festival an intimate emotional register. Navaratri observances elsewhere may focus on other goddess forms, music, fasting, or regional customs."
+      }
+    ],
+    "traditions": [
+      "Shakta",
+      "Bengali Hindu traditions"
+    ],
+    "aliases": [
+      "Mahishasuramardini",
+      "Durgā"
+    ],
+    "relatedIDs": [
+      "devi",
+      "kali",
+      "parvati",
+      "shakti",
+      "mahishasura"
+    ],
+    "bookIDs": [
+      "devi-mahatmya"
+    ],
+    "sources": [
+      {
+        "title": "The Metropolitan Museum of Art — Hinduism and Hindu art",
+        "url": "https://www.metmuseum.org/essays/hinduism-and-hindu-art"
+      },
+      {
+        "title": "British Museum — Durga returning to Bengal",
+        "url": "https://www.britishmuseum.org/collection/object/A_1990-1031-0-1"
+      },
+      {
+        "title": "Devi Mahatmya, chapter 2 — Pargiter, 1904",
+        "url": "https://www.wisdomlib.org/hinduism/book/the-markandeya-purana/d/doc117157.html"
+      }
+    ],
+    "symbol": "sparkles"
+  },
+  {
+    "id": "kali",
+    "name": "Kali",
+    "sanskrit": "काली · Kālī",
+    "kind": "Deity",
+    "subtitle": "Fierce compassion",
+    "summary": "Kali is revered as a powerful liberating Goddess, especially in Shakta traditions, and as an intimate divine Mother.",
+    "body": [
+      {
+        "title": "A fierce form",
+        "text": "The Devi Mahatmya presents Kali emerging during the Goddess’s battles. Later imagery often shows her standing over Shiva. Her fearsome features can confront death, ego, and the limits of ordinary security; they do not make her a representation of moral evil."
+      },
+      {
+        "title": "Devotional interpretation",
+        "text": "Bengali traditions frequently address Kali with a child’s trust in a mother. Images and interpretations have histories: a familiar modern form should not be assumed to appear identically in every early text or every community."
+      }
+    ],
+    "traditions": [
+      "Shakta",
+      "Bengali Hindu traditions"
+    ],
+    "aliases": [
+      "Kalika",
+      "Kālī"
+    ],
+    "relatedIDs": [
+      "devi",
+      "durga",
+      "shiva",
+      "shakti"
+    ],
+    "bookIDs": [
+      "devi-mahatmya"
+    ],
+    "sources": [
+      {
+        "title": "The Metropolitan Museum of Art — Seeing Kali clearly",
+        "url": "https://www.metmuseum.org/perspectives/household-gods-kali-lithography"
+      }
+    ],
+    "symbol": "sparkles"
+  },
+  {
+    "id": "parvati",
+    "name": "Parvati",
+    "sanskrit": "पार्वती · Pārvatī",
+    "kind": "Deity",
+    "subtitle": "Resolve, relationship, power",
+    "summary": "Parvati is a mountain-born Goddess, closely associated with Shiva, and revered in her own right.",
+    "body": [
+      {
+        "title": "Divine family",
+        "text": "Parvati and Shiva are frequently represented with Ganesha and Skanda. Stories of their relationship explore ascetic discipline, marriage, and the meeting of spiritual power with household life. Regional stories do not always arrange the divine family in the same way."
+      },
+      {
+        "title": "Names and forms",
+        "text": "Parvati is connected with Uma, Gauri, and forms of Devi. In some traditions Durga is understood as a form of Parvati; in others the emphasis falls on the independent supreme Goddess. Track the text and community before merging their identities."
+      }
+    ],
+    "traditions": [
+      "Shaiva",
+      "Shakta"
+    ],
+    "aliases": [
+      "Uma",
+      "Gauri"
+    ],
+    "relatedIDs": [
+      "shiva",
+      "ganesha",
+      "devi",
+      "durga",
+      "shakti"
+    ],
+    "bookIDs": [
+      "devi-mahatmya"
+    ],
+    "sources": [
+      {
+        "title": "British Museum — Durga returning to Bengal",
+        "url": "https://www.britishmuseum.org/collection/object/A_1990-1031-0-1"
+      },
+      {
+        "title": "Rubin Museum — Hindu gods and goddesses",
+        "url": "https://rubinmuseum.org/highlights/hindu-gods-and-goddesses/"
+      }
+    ],
+    "symbol": "sparkles"
+  },
+  {
+    "id": "lakshmi",
+    "name": "Lakshmi",
+    "sanskrit": "लक्ष्मी · Lakṣmī",
+    "kind": "Deity",
+    "subtitle": "Flourishing and good fortune",
+    "summary": "Lakshmi, also called Shri, is the Goddess of prosperity and auspiciousness, closely associated with Vishnu.",
+    "body": [
+      {
+        "title": "Emerging from the ocean",
+        "text": "In the Vishnu Purana’s ocean-churning narrative, Lakshmi’s appearance restores divine prosperity. Her lotus and the waters around her evoke flourishing. The story connects well-being with a restored cosmic and ethical order."
+      },
+      {
+        "title": "Prosperity in context",
+        "text": "Prosperity includes nourishment, beauty, dignity, and shared well-being, not simply money. Lakshmi worship is prominent in many Diwali observances, but Diwali has different centers and stories across regions and communities."
+      }
+    ],
+    "traditions": [
+      "Vaishnava",
+      "Shakta"
+    ],
+    "aliases": [
+      "Laksmi",
+      "Shri",
+      "Sri"
+    ],
+    "relatedIDs": [
+      "vishnu",
+      "devi",
+      "puja",
+      "dharma"
+    ],
+    "bookIDs": [
+      "vishnu-purana"
+    ],
+    "sources": [
+      {
+        "title": "Vishnu Purana 1.9 — Lakshmi and the ocean",
+        "url": "https://sacred-texts.com/hin/vp/vp044.htm"
+      }
+    ],
+    "symbol": "sparkles"
+  },
+  {
+    "id": "saraswati",
+    "name": "Saraswati",
+    "sanskrit": "सरस्वती · Sarasvatī",
+    "kind": "Deity",
+    "subtitle": "Learning, music, speech",
+    "summary": "Saraswati is revered as the Goddess of learning and the arts; her name also belongs to a Vedic river.",
+    "body": [
+      {
+        "title": "Knowledge made visible",
+        "text": "Books, a vina, and a bird mount often identify Saraswati in later art. These attributes invite attention to disciplined learning, eloquence, and music. Images vary: a museum’s regional identification is more reliable than a universal checklist of symbols."
+      },
+      {
+        "title": "Layers of tradition",
+        "text": "The Vedic Sarasvati and the later Goddess of learning belong to a long, changing religious history. Recognizing continuity does not require assuming that every attribute was present from the beginning. Students and artists continue to honor her through living practices."
+      }
+    ],
+    "traditions": [
+      "Shakta",
+      "Learning and arts traditions"
+    ],
+    "aliases": [
+      "Sarasvati",
+      "Sharada"
+    ],
+    "relatedIDs": [
+      "devi",
+      "brahma",
+      "puja"
+    ],
+    "bookIDs": [
+      "rig-veda"
+    ],
+    "sources": [
+      {
+        "title": "The Met — Vishnu with Lakshmi and Sarasvati",
+        "url": "https://www.metmuseum.org/art/collection/search/38530"
+      },
+      {
+        "title": "Rubin Museum — Hindu gods and goddesses",
+        "url": "https://rubinmuseum.org/highlights/hindu-gods-and-goddesses/"
+      }
+    ],
+    "symbol": "sparkles"
+  },
+  {
+    "id": "ganesha",
+    "name": "Ganesha",
+    "sanskrit": "गणेश · Gaṇeśa",
+    "kind": "Deity",
+    "subtitle": "Auspicious beginnings",
+    "summary": "Ganesha is the elephant-headed Lord widely honored at beginnings and associated with wisdom and obstacles.",
+    "body": [
+      {
+        "title": "Beginning with attention",
+        "text": "Invoking Ganesha before a journey, study, or ritual asks for an auspicious start. His relationship with obstacles is richer than a promise of effortless success: traditions also connect him with discernment and the need to approach a task properly."
+      },
+      {
+        "title": "Stories and symbols",
+        "text": "Ganesha is commonly associated with Shiva and Parvati, but accounts of his birth differ. His broken tusk, large belly, and mouse companion carry multiple explanations. Treat a symbolic explanation as one tradition’s reading rather than a hidden code shared by all Hindus."
+      }
+    ],
+    "traditions": [
+      "Across Hindu traditions"
+    ],
+    "aliases": [
+      "Ganesh",
+      "Ganapati",
+      "Vinayaka"
+    ],
+    "relatedIDs": [
+      "shiva",
+      "parvati",
+      "puja"
+    ],
+    "bookIDs": [
+      "mahabharata"
+    ],
+    "sources": [
+      {
+        "title": "Harvard Pluralism Project — Ganesha",
+        "url": "https://pluralism.org/ganesha-the-lord-of-beginnings"
+      }
+    ],
+    "symbol": "sparkles"
+  },
+  {
+    "id": "rama",
+    "name": "Rama",
+    "sanskrit": "राम · Rāma",
+    "kind": "Deity",
+    "subtitle": "Kingship under ethical pressure",
+    "summary": "Rama is the central figure of the Ramayana and is revered as Vishnu’s avatar in many Hindu traditions.",
+    "body": [
+      {
+        "title": "The exile",
+        "text": "A promise made by his father sends Rama away from Ayodhya. Sita and Lakshmana accompany him. After Ravana abducts Sita, Rama forms alliances that bring him to Lanka. The story makes family obligations and public duties collide."
+      },
+      {
+        "title": "Reading with care",
+        "text": "Many devotees honor Rama as an ideal of dharma. The epic also contains decisions that readers have questioned, especially those affecting Sita. Read these tensions closely and compare retellings; reverence and ethical inquiry can coexist."
+      }
+    ],
+    "traditions": [
+      "Vaishnava",
+      "Rama bhakti"
+    ],
+    "aliases": [
+      "Ram",
+      "Raghava",
+      "Raghunatha"
+    ],
+    "relatedIDs": [
+      "sita",
+      "lakshmana",
+      "hanuman",
+      "ravana",
+      "bharata",
+      "dharma"
+    ],
+    "bookIDs": [
+      "ramayana"
+    ],
+    "sources": [
+      {
+        "title": "Ramayana, Dutt’s abridgment, Book II",
+        "url": "https://sacred-texts.com/hin/dutt/rama02.htm"
+      },
+      {
+        "title": "Harvard Pluralism Project — Rama, Sita, Hanuman",
+        "url": "https://pluralism.org/rama-sita-hanuman"
+      }
+    ],
+    "symbol": "sparkles"
+  },
+  {
+    "id": "sita",
+    "name": "Sita",
+    "sanskrit": "सीता · Sītā",
+    "kind": "Deity",
+    "subtitle": "Dignity, resolve, and the earth",
+    "summary": "Sita is the Ramayana’s central heroine and is revered as a Goddess, often identified with Lakshmi.",
+    "body": [
+      {
+        "title": "An active moral voice",
+        "text": "Sita chooses to accompany Rama into exile and refuses Ravana’s demands after her abduction. Her words, choices, grief, and endurance matter in their own right. Reading her only as a prize to be recovered overlooks much of the epic’s emotional and ethical force."
+      },
+      {
+        "title": "Different tellings",
+        "text": "Sita’s ordeal and later separation from Rama have inspired devotion, debate, and many reinterpretations. The concluding Uttara Kanda is textually and historically complex. Identify the particular Ramayana and edition when comparing how it treats her return to the earth."
+      }
+    ],
+    "traditions": [
+      "Vaishnava",
+      "Rama bhakti",
+      "Goddess traditions"
+    ],
+    "aliases": [
+      "Janaki",
+      "Vaidehi",
+      "Maithili"
+    ],
+    "relatedIDs": [
+      "rama",
+      "lakshmi",
+      "hanuman",
+      "ravana",
+      "valmiki"
+    ],
+    "bookIDs": [
+      "ramayana"
+    ],
+    "sources": [
+      {
+        "title": "Ramayana, Dutt’s abridgment, Book VIII",
+        "url": "https://sacred-texts.com/hin/dutt/rama08.htm"
+      },
+      {
+        "title": "Ramayana, Dutt’s abridgment, Book XII",
+        "url": "https://sacred-texts.com/hin/dutt/rama12.htm"
+      }
+    ],
+    "symbol": "sparkles"
+  },
+  {
+    "id": "hanuman",
+    "name": "Hanuman",
+    "sanskrit": "हनुमान् · Hanumān",
+    "kind": "Deity",
+    "subtitle": "Courage in service",
+    "summary": "Hanuman is revered for strength, intelligence, and unwavering devotion to Rama and Sita.",
+    "body": [
+      {
+        "title": "Finding Sita",
+        "text": "Hanuman crosses the ocean to Lanka, locates Sita, and brings a sign of Rama’s identity. His mission depends on judgment and communication as well as power. He must gain Sita’s trust without endangering her."
+      },
+      {
+        "title": "Devotion in action",
+        "text": "Hanuman’s service makes him a widely loved model of bhakti. His greatness is expressed through how he uses his abilities for others. Later devotional traditions develop his roles as protector and source of courage far beyond a single episode."
+      }
+    ],
+    "traditions": [
+      "Rama bhakti",
+      "Across Hindu traditions"
+    ],
+    "aliases": [
+      "Hanumat",
+      "Anjaneya",
+      "Maruti"
+    ],
+    "relatedIDs": [
+      "rama",
+      "sita",
+      "bhakti"
+    ],
+    "bookIDs": [
+      "ramayana"
+    ],
+    "sources": [
+      {
+        "title": "Ramayana, Dutt’s abridgment, Book VIII",
+        "url": "https://sacred-texts.com/hin/dutt/rama08.htm"
+      },
+      {
+        "title": "Harvard Pluralism Project — Rama, Sita, Hanuman",
+        "url": "https://pluralism.org/rama-sita-hanuman"
+      }
+    ],
+    "symbol": "sparkles"
+  },
+  {
+    "id": "agni",
+    "name": "Agni",
+    "sanskrit": "अग्नि · Agni",
+    "kind": "Deity",
+    "subtitle": "Fire and sacred offering",
+    "summary": "Agni is the Vedic deity of fire and an intermediary through whom ritual offerings reach the gods.",
+    "body": [
+      {
+        "title": "At the opening of the Rig Veda",
+        "text": "The first Rig Vedic hymn invokes Agni as the priest of sacrifice. Fire is therefore more than scenery: it participates in a relationship among worshippers, offerings, and divine recipients. The language is praise within a ritual setting."
+      },
+      {
+        "title": "Continuing presence",
+        "text": "Sacred fire remains central to many Hindu rites, including some wedding ceremonies and forms of homa. Such continuity does not mean that every modern rite repeats Vedic practice unchanged. Regional and lineage traditions shape how fire is tended and understood."
+      }
+    ],
+    "traditions": [
+      "Vedic",
+      "Ritual traditions"
+    ],
+    "aliases": [
+      "Sacred fire"
+    ],
+    "relatedIDs": [
+      "indra",
+      "puja",
+      "dharma",
+      "ushas"
+    ],
+    "bookIDs": [
+      "rig-veda"
+    ],
+    "sources": [
+      {
+        "title": "Rig Veda 1.1 — Hymn to Agni, Griffith",
+        "url": "https://sacred-texts.com/hin/rigveda/rv01001.htm"
+      }
+    ],
+    "symbol": "flame"
+  },
+  {
+    "id": "indra",
+    "name": "Indra",
+    "sanskrit": "इन्द्र · Indra",
+    "kind": "Deity",
+    "subtitle": "Storm, sovereignty, and the waters",
+    "summary": "Indra is a prominent Vedic deity whose victory over Vritra releases the waters.",
+    "body": [
+      {
+        "title": "Vedic praise",
+        "text": "Rig Veda 1.32 praises Indra’s defeat of the obstructing serpent Vritra. Thunderbolt imagery, rain, and the release of rivers connect his power with conditions for life. Read the hymn as ritual poetry rather than a modern weather explanation."
+      },
+      {
+        "title": "A changing place",
+        "text": "Indra remains king of the gods in many later narratives, but Vishnu, Shiva, or Devi may be supreme within those texts. A deity’s prominence can change across genres and communities; the Vedic landscape is not identical to a later Purana’s world."
+      }
+    ],
+    "traditions": [
+      "Vedic",
+      "Puranic"
+    ],
+    "aliases": [
+      "Shakra",
+      "Sakra",
+      "Vasava"
+    ],
+    "relatedIDs": [
+      "agni",
+      "vishnu",
+      "lakshmi",
+      "varuna",
+      "soma"
+    ],
+    "bookIDs": [
+      "rig-veda",
+      "vishnu-purana"
+    ],
+    "sources": [
+      {
+        "title": "Rig Veda 1.32 — Indra and Vritra, Griffith",
+        "url": "https://sacred-texts.com/hin/rigveda/rv01032.htm"
+      },
+      {
+        "title": "Vishnu Purana 1.9 — Lakshmi and the ocean",
+        "url": "https://sacred-texts.com/hin/vp/vp044.htm"
+      }
+    ],
+    "symbol": "cloud.bolt"
+  },
+  {
+    "id": "brahma",
+    "name": "Brahma",
+    "sanskrit": "ब्रह्मा · Brahmā",
+    "kind": "Deity",
+    "subtitle": "The creator deity",
+    "summary": "Brahma is a personal creator deity. He is distinct from Brahman, a term for ultimate reality.",
+    "body": [
+      {
+        "title": "Cosmic creation",
+        "text": "Puranic accounts frequently associate Brahma with the unfolding of a cosmos and with vast cycles of time. Narratives of his origin and relationship to other deities vary. In Vaishnava accounts he may arise through Vishnu’s creative power."
+      },
+      {
+        "title": "Three similar words",
+        "text": "Brahma names a deity. Brahman names ultimate reality in many philosophical discussions. Brahmin refers to a historically priestly social category. English spellings can blur the distinctions, so the final long vowel in Brahmā is a useful clue."
+      }
+    ],
+    "traditions": [
+      "Puranic"
+    ],
+    "aliases": [
+      "Brahmā",
+      "Prajapati"
+    ],
+    "relatedIDs": [
+      "brahman",
+      "vishnu",
+      "saraswati",
+      "kalpa",
+      "prajapati",
+      "manu"
+    ],
+    "bookIDs": [
+      "vishnu-purana"
+    ],
+    "sources": [
+      {
+        "title": "Vishnu Purana 1.1 — H. H. Wilson, 1840",
+        "url": "https://sacred-texts.com/hin/vp/vp035.htm"
+      },
+      {
+        "title": "Vishnu Purana 1.3 — Cosmic time",
+        "url": "https://sacred-texts.com/hin/vp/vp037.htm"
+      }
+    ],
+    "symbol": "sun.max"
+  },
+  {
+    "id": "ganga",
+    "name": "Ganga",
+    "sanskrit": "गङ्गा · Gaṅgā",
+    "kind": "Deity",
+    "subtitle": "A sacred river and Goddess",
+    "summary": "Ganga is both the river known in English as the Ganges and a Goddess approached with devotion.",
+    "body": [
+      {
+        "title": "Descent to earth",
+        "text": "A widely told narrative connects Ganga’s descent with Bhagiratha’s effort to benefit his ancestors and Shiva’s receiving her force in his hair. The river links heavens, earth, and the dead in a sacred geography."
+      },
+      {
+        "title": "Place and relationship",
+        "text": "Pilgrimage, offerings, and ritual bathing express a relationship with Ganga that is not captured by calling the river a symbol alone. Sacred geography is lived through specific places and communities. Reverence can also motivate care for the river’s material environment."
+      }
+    ],
+    "traditions": [
+      "Across Hindu traditions"
+    ],
+    "aliases": [
+      "Ganges",
+      "Jahnavi",
+      "Bhagirathi"
+    ],
+    "relatedIDs": [
+      "shiva",
+      "bhishma",
+      "puja",
+      "prithvi"
+    ],
+    "bookIDs": [
+      "ramayana"
+    ],
+    "sources": [
+      {
+        "title": "Harvard Pluralism Project — Temple and image",
+        "url": "https://pluralism.org/abodes-of-god-temple-and-image"
+      },
+      {
+        "title": "Mahabharata, Adi Parva — K. M. Ganguli",
+        "url": "https://sacred-texts.com/hin/m01/index.htm"
+      },
+      {
+        "title": "Ramayana — R. T. H. Griffith, 1870–1874",
+        "url": "https://www.gutenberg.org/files/24869/24869-h/24869-h.html"
+      }
+    ],
+    "symbol": "water.waves"
+  },
+  {
+    "id": "arjuna",
+    "name": "Arjuna",
+    "sanskrit": "अर्जुन · Arjuna",
+    "kind": "Epic figure",
+    "subtitle": "The student who asks",
+    "summary": "Arjuna is a Pandava warrior whose moral crisis opens the Bhagavad Gita.",
+    "body": [
+      {
+        "title": "The problem",
+        "text": "Arjuna sees relatives and teachers on both sides of a coming war. Victory seems hollow if it destroys those relationships. His fear is not merely of losing: he questions whether fighting can be right at all."
+      },
+      {
+        "title": "Learning through dialogue",
+        "text": "Krishna answers across eighteen chapters, while Arjuna asks further questions and requests clarification. For a beginner, Arjuna models serious learning: name the dilemma, test what you hear, and connect abstract ideas to the difficulty of choosing an action."
+      }
+    ],
+    "traditions": [
+      "Mahabharata",
+      "Bhagavad Gita"
+    ],
+    "aliases": [
+      "Partha",
+      "Dhananjaya"
+    ],
+    "relatedIDs": [
+      "krishna",
+      "kunti",
+      "bhima",
+      "yudhishthira",
+      "draupadi",
+      "dharma",
+      "sanjaya"
+    ],
+    "bookIDs": [
+      "bhagavad-gita",
+      "mahabharata"
+    ],
+    "sources": [
+      {
+        "title": "Bhagavad Gita 1 — Arjuna’s crisis",
+        "url": "https://sacred-texts.com/book/the-bhagavad-gita-2/read/chapter-1-of-the-distress-of-arjuna"
+      }
+    ],
+    "symbol": "arrow.up.right"
+  },
+  {
+    "id": "draupadi",
+    "name": "Draupadi",
+    "sanskrit": "द्रौपदी · Draupadī",
+    "kind": "Epic figure",
+    "subtitle": "A question the court cannot answer",
+    "summary": "Draupadi is a central queen of the Mahabharata whose challenge during the dice episode exposes a failure of justice.",
+    "body": [
+      {
+        "title": "The dice hall",
+        "text": "After Yudhishthira stakes and loses himself, Draupadi asks whether he retained the right to stake her. Her question reveals the conflict between formal rules, power, and moral legitimacy. The elders’ hesitation is part of the episode’s indictment."
+      },
+      {
+        "title": "More than an injury",
+        "text": "Draupadi’s relationships with the five Pandavas, her insistence on accountability, and her grief after war shape the epic. Regional devotional traditions also revere her as a Goddess. This introductory classification identifies her narrative role, not the limits of her religious significance."
+      }
+    ],
+    "traditions": [
+      "Mahabharata",
+      "Regional Draupadi traditions"
+    ],
+    "aliases": [
+      "Panchali",
+      "Krishnaa"
+    ],
+    "relatedIDs": [
+      "yudhishthira",
+      "arjuna",
+      "bhima",
+      "krishna",
+      "dharma"
+    ],
+    "bookIDs": [
+      "mahabharata"
+    ],
+    "sources": [
+      {
+        "title": "Mahabharata, Dutt’s abridgment, The fatal dice",
+        "url": "https://sacred-texts.com/hin/dutt/maha04.htm"
+      }
+    ],
+    "symbol": "person"
+  },
+  {
+    "id": "yudhishthira",
+    "name": "Yudhishthira",
+    "sanskrit": "युधिष्ठिर · Yudhiṣṭhira",
+    "kind": "Epic figure",
+    "subtitle": "Dharma is difficult",
+    "summary": "Yudhishthira is the eldest Pandava, celebrated for commitment to dharma yet implicated in devastating mistakes.",
+    "body": [
+      {
+        "title": "A flawed king",
+        "text": "The dice game makes his limits painfully visible: he loses wealth, kingdom, brothers, himself, and stakes Draupadi. A reputation for righteousness does not remove responsibility for harmful choices."
+      },
+      {
+        "title": "A question to carry",
+        "text": "His story invites a persistent reading question: when rules, promises, compassion, and consequences pull in different directions, what should govern action? The Mahabharata rarely makes moral judgment as easy as choosing the person labeled virtuous."
+      }
+    ],
+    "traditions": [
+      "Mahabharata"
+    ],
+    "aliases": [
+      "Dharmaraja"
+    ],
+    "relatedIDs": [
+      "draupadi",
+      "arjuna",
+      "bhima",
+      "kunti",
+      "dharma"
+    ],
+    "bookIDs": [
+      "mahabharata"
+    ],
+    "sources": [
+      {
+        "title": "Mahabharata, Dutt’s abridgment, The fatal dice",
+        "url": "https://sacred-texts.com/hin/dutt/maha04.htm"
+      }
+    ],
+    "symbol": "person"
+  },
+  {
+    "id": "bhima",
+    "name": "Bhima",
+    "sanskrit": "भीम · Bhīma",
+    "kind": "Epic figure",
+    "subtitle": "Strength and fierce loyalty",
+    "summary": "Bhima is a Pandava renowned for physical strength and powerful devotion to his family.",
+    "body": [
+      {
+        "title": "Power with purpose",
+        "text": "Bhima is often direct where other figures deliberate. His response to Draupadi’s humiliation expresses fierce loyalty, but also creates vows of violent revenge that follow the story into battle."
+      },
+      {
+        "title": "Ethical tension",
+        "text": "His strength is indispensable to the Pandavas and can be morally troubling in its use. Read him alongside Yudhishthira: their different temperaments show how loyalty, restraint, anger, and justice can compete within one family."
+      }
+    ],
+    "traditions": [
+      "Mahabharata"
+    ],
+    "aliases": [
+      "Vrikodara"
+    ],
+    "relatedIDs": [
+      "arjuna",
+      "yudhishthira",
+      "draupadi",
+      "kunti"
+    ],
+    "bookIDs": [
+      "mahabharata"
+    ],
+    "sources": [
+      {
+        "title": "Mahabharata, Dutt’s abridgment, The fatal dice",
+        "url": "https://sacred-texts.com/hin/dutt/maha04.htm"
+      },
+      {
+        "title": "Mahabharata, Dutt’s abridgment, Fall of Bhishma",
+        "url": "https://sacred-texts.com/hin/dutt/maha08.htm"
+      }
+    ],
+    "symbol": "person"
+  },
+  {
+    "id": "karna",
+    "name": "Karna",
+    "sanskrit": "कर्ण · Karṇa",
+    "kind": "Epic figure",
+    "subtitle": "Belonging and divided loyalty",
+    "summary": "Karna is a formidable warrior whose hidden birth and loyalty to Duryodhana complicate the Mahabharata’s conflict.",
+    "body": [
+      {
+        "title": "Recognition and exclusion",
+        "text": "Raised in a charioteer’s household, Karna faces challenges to his status. Duryodhana’s support binds them in friendship. Later, the revelation that Kunti is his mother exposes his kinship with those he has prepared to fight."
+      },
+      {
+        "title": "Reading beyond a label",
+        "text": "Generosity and courage coexist with participation in grave wrongs. Neither his exclusion nor his loyalty cancels moral responsibility. His story is powerful because the competing claims on him remain painfully real."
+      }
+    ],
+    "traditions": [
+      "Mahabharata"
+    ],
+    "aliases": [
+      "Radheya",
+      "Vasusena"
+    ],
+    "relatedIDs": [
+      "kunti",
+      "arjuna",
+      "draupadi",
+      "dharma",
+      "duryodhana"
+    ],
+    "bookIDs": [
+      "mahabharata"
+    ],
+    "sources": [
+      {
+        "title": "Mahabharata, Dutt’s abridgment, The tournament",
+        "url": "https://sacred-texts.com/book/the-ramayana-and-mahabharata/read/book-i-the-tournament"
+      },
+      {
+        "title": "Mahabharata, Dutt’s abridgment, Fall of Karna",
+        "url": "https://sacred-texts.com/hin/dutt/maha10.htm"
+      }
+    ],
+    "symbol": "person"
+  },
+  {
+    "id": "bhishma",
+    "name": "Bhishma",
+    "sanskrit": "भीष्म · Bhīṣma",
+    "kind": "Epic figure",
+    "subtitle": "The cost of an absolute vow",
+    "summary": "Bhishma is an elder of the Kuru family whose vow of renunciation shapes generations of conflict.",
+    "body": [
+      {
+        "title": "A guardian bound",
+        "text": "Bhishma gives up marriage and his claim to kingship to secure his father’s marriage. His long service to the throne makes him a protector of the dynasty, but also binds him to a court whose choices he cannot make just."
+      },
+      {
+        "title": "An unresolved example",
+        "text": "His wisdom and martial skill do not prevent his failure to protect Draupadi in the assembly. Later he teaches from his bed of arrows. His story asks whether fidelity to a vow is sufficient when the institution it serves causes harm."
+      }
+    ],
+    "traditions": [
+      "Mahabharata"
+    ],
+    "aliases": [
+      "Devavrata",
+      "Gangeya"
+    ],
+    "relatedIDs": [
+      "ganga",
+      "draupadi",
+      "yudhishthira",
+      "arjuna",
+      "dharma",
+      "dhritarashtra"
+    ],
+    "bookIDs": [
+      "mahabharata"
+    ],
+    "sources": [
+      {
+        "title": "Mahabharata, Adi Parva — K. M. Ganguli",
+        "url": "https://sacred-texts.com/hin/m01/index.htm"
+      },
+      {
+        "title": "Mahabharata, Dutt’s abridgment, The fatal dice",
+        "url": "https://sacred-texts.com/hin/dutt/maha04.htm"
+      },
+      {
+        "title": "Mahabharata, Dutt’s abridgment, Fall of Bhishma",
+        "url": "https://sacred-texts.com/hin/dutt/maha08.htm"
+      }
+    ],
+    "symbol": "person"
+  },
+  {
+    "id": "ravana",
+    "name": "Ravana",
+    "sanskrit": "रावण · Rāvaṇa",
+    "kind": "Epic figure",
+    "subtitle": "Power without restraint",
+    "summary": "Ravana is the ruler of Lanka whose abduction of Sita drives the central conflict of the Ramayana.",
+    "body": [
+      {
+        "title": "The central wrong",
+        "text": "Ravana seizes Sita and refuses to release her despite counsel that he should do so. His power cannot make her consent. This distinction matters when reading the story’s extraordinary feats and royal grandeur."
+      },
+      {
+        "title": "Complex reception",
+        "text": "Some traditions also emphasize Ravana’s learning, ascetic achievements, or devotion to Shiva. Such qualities do not erase his conduct toward Sita. Retellings give him different emphases; avoid treating any one portrayal as the only account in South Asian culture."
+      }
+    ],
+    "traditions": [
+      "Ramayana",
+      "Regional retellings"
+    ],
+    "aliases": [
+      "Dashanana",
+      "Lankesha"
+    ],
+    "relatedIDs": [
+      "sita",
+      "rama",
+      "hanuman",
+      "shiva",
+      "vibhishana"
+    ],
+    "bookIDs": [
+      "ramayana"
+    ],
+    "sources": [
+      {
+        "title": "Ramayana, Dutt’s abridgment, Book VI",
+        "url": "https://sacred-texts.com/hin/dutt/rama06.htm"
+      },
+      {
+        "title": "Ramayana, Dutt’s abridgment, Book X",
+        "url": "https://sacred-texts.com/hin/dutt/rama10.htm"
+      }
+    ],
+    "symbol": "person"
+  },
+  {
+    "id": "lakshmana",
+    "name": "Lakshmana",
+    "sanskrit": "लक्ष्मण · Lakṣmaṇa",
+    "kind": "Epic figure",
+    "subtitle": "Loyalty beside Rama",
+    "summary": "Lakshmana is Rama’s brother and companion during exile.",
+    "body": [
+      {
+        "title": "Choosing exile",
+        "text": "Lakshmana leaves royal life to accompany Rama and Sita. His vigilance and willingness to serve show a form of commitment that is enacted through daily hardship as much as through battle."
+      },
+      {
+        "title": "A careful reader’s distinction",
+        "text": "Famous details in popular retellings do not necessarily appear in every Ramayana. When a familiar scene seems absent, check the version rather than assuming that the text is incomplete. The tradition includes Sanskrit epics, regional poems, theater, and oral storytelling."
+      }
+    ],
+    "traditions": [
+      "Ramayana"
+    ],
+    "aliases": [
+      "Lakshman",
+      "Saumitri"
+    ],
+    "relatedIDs": [
+      "rama",
+      "sita",
+      "bharata",
+      "hanuman"
+    ],
+    "bookIDs": [
+      "ramayana"
+    ],
+    "sources": [
+      {
+        "title": "Ramayana, Dutt’s abridgment, Book II",
+        "url": "https://sacred-texts.com/hin/dutt/rama02.htm"
+      }
+    ],
+    "symbol": "person"
+  },
+  {
+    "id": "bharata",
+    "name": "Bharata",
+    "sanskrit": "भरत · Bharata",
+    "kind": "Epic figure",
+    "subtitle": "Authority held in trust",
+    "summary": "Bharata is Rama’s brother, who refuses to benefit from the intrigue that sends Rama into exile.",
+    "body": [
+      {
+        "title": "The sandals on the throne",
+        "text": "Bharata asks Rama to return and rule. When Rama remains committed to exile, Bharata takes his sandals as a sign of Rama’s authority and governs on his behalf. The episode makes restraint an expression of strength."
+      },
+      {
+        "title": "Avoid a name collision",
+        "text": "Many texts contain a figure named Bharata. Rama’s brother is distinct from the ancestral Bharata associated with the Mahabharata’s name. Shared names are a reason to follow relationships and textual context carefully."
+      }
+    ],
+    "traditions": [
+      "Ramayana"
+    ],
+    "aliases": [
+      "Bharat"
+    ],
+    "relatedIDs": [
+      "rama",
+      "lakshmana",
+      "dharma"
+    ],
+    "bookIDs": [
+      "ramayana"
+    ],
+    "sources": [
+      {
+        "title": "Ramayana, Dutt’s abridgment, Book IV",
+        "url": "https://sacred-texts.com/book/the-ramayana-and-mahabharata/read/book-iv-the-meeting-of-the-princes"
+      }
+    ],
+    "symbol": "person"
+  },
+  {
+    "id": "kunti",
+    "name": "Kunti",
+    "sanskrit": "कुन्ती · Kuntī",
+    "kind": "Epic figure",
+    "subtitle": "Motherhood and difficult choices",
+    "summary": "Kunti is mother of Yudhishthira, Bhima, and Arjuna, and also of Karna, whose birth she keeps secret.",
+    "body": [
+      {
+        "title": "A hidden relationship",
+        "text": "Kunti’s early abandonment of Karna and later disclosure of his birth create a tragic intersection between family and political loyalties. The revelation arrives after Karna’s bond with Duryodhana has become central to his identity."
+      },
+      {
+        "title": "Reading her agency",
+        "text": "Kunti acts to protect her children amid danger, while her decisions also have costs for others. Her story rewards attention to women’s constrained choices rather than treating family relationships as background to the warriors’ deeds."
+      }
+    ],
+    "traditions": [
+      "Mahabharata"
+    ],
+    "aliases": [
+      "Pritha"
+    ],
+    "relatedIDs": [
+      "karna",
+      "arjuna",
+      "yudhishthira",
+      "bhima"
+    ],
+    "bookIDs": [
+      "mahabharata"
+    ],
+    "sources": [
+      {
+        "title": "Mahabharata, Adi Parva — K. M. Ganguli",
+        "url": "https://sacred-texts.com/hin/m01/index.htm"
+      },
+      {
+        "title": "Mahabharata, Dutt’s abridgment, Fall of Karna",
+        "url": "https://sacred-texts.com/hin/dutt/maha10.htm"
+      }
+    ],
+    "symbol": "person"
+  },
+  {
+    "id": "vyasa",
+    "name": "Vyasa",
+    "sanskrit": "व्यास · Vyāsa",
+    "kind": "Sage",
+    "subtitle": "A tradition’s compiler and narrator",
+    "summary": "Vyasa is the sage traditionally associated with arranging the Vedas and composing the Mahabharata.",
+    "body": [
+      {
+        "title": "Inside the story",
+        "text": "Vyasa is both a figure within the Mahabharata’s genealogy and its traditional author. The epic is transmitted through nested acts of telling and listening. This framework makes the transmission of knowledge part of the narrative itself."
+      },
+      {
+        "title": "Traditional attribution",
+        "text": "Vyasa means an arranger or compiler. Traditional authorship and modern historical analysis ask different questions: one locates sacred authority, while the other studies how a layered work developed. A single traditional name need not imply that every passage was written at one historical moment."
+      }
+    ],
+    "traditions": [
+      "Epic",
+      "Vedic",
+      "Puranic"
+    ],
+    "aliases": [
+      "Krishna Dvaipayana",
+      "Veda Vyasa"
+    ],
+    "relatedIDs": [
+      "arjuna",
+      "bhishma",
+      "dharma"
+    ],
+    "bookIDs": [
+      "mahabharata",
+      "rig-veda"
+    ],
+    "sources": [
+      {
+        "title": "Mahabharata, Adi Parva — K. M. Ganguli",
+        "url": "https://sacred-texts.com/hin/m01/index.htm"
+      },
+      {
+        "title": "Vishnu Purana 1.1 — H. H. Wilson, 1840",
+        "url": "https://sacred-texts.com/hin/vp/vp035.htm"
+      }
+    ],
+    "symbol": "book.closed"
+  },
+  {
+    "id": "valmiki",
+    "name": "Valmiki",
+    "sanskrit": "वाल्मीकि · Vālmīki",
+    "kind": "Sage",
+    "subtitle": "Poet of the Ramayana",
+    "summary": "Valmiki is the sage traditionally credited with the Sanskrit Ramayana.",
+    "body": [
+      {
+        "title": "Poetry and compassion",
+        "text": "The Ramayana’s framing tradition connects poetic speech with compassion in the face of suffering. Valmiki’s role invites readers to hear the epic as crafted verse, attentive to emotional life as well as heroic deeds."
+      },
+      {
+        "title": "A place within the story",
+        "text": "In the concluding narrative, Sita finds refuge in Valmiki’s hermitage and her sons learn the poem. Author, listener, and participant become intertwined. The textual history of this concluding book is complex, so distinguish its narrative setting from a modern biography of the poet."
+      }
+    ],
+    "traditions": [
+      "Ramayana"
+    ],
+    "aliases": [
+      "Adi Kavi"
+    ],
+    "relatedIDs": [
+      "rama",
+      "sita",
+      "hanuman",
+      "tulsidas"
+    ],
+    "bookIDs": [
+      "ramayana"
+    ],
+    "sources": [
+      {
+        "title": "Ramayana, Dutt’s abridgment, Book XII",
+        "url": "https://sacred-texts.com/hin/dutt/rama12.htm"
+      },
+      {
+        "title": "Ramayana — R. T. H. Griffith, 1870–1874",
+        "url": "https://www.gutenberg.org/files/24869/24869-h/24869-h.html"
+      }
+    ],
+    "symbol": "book.closed"
+  },
+  {
+    "id": "patanjali",
+    "name": "Patanjali",
+    "sanskrit": "पतञ्जलि · Patañjali",
+    "kind": "Sage",
+    "subtitle": "A systematic account of yoga",
+    "summary": "Patanjali is the traditional author associated with the Yoga Sutras, a compact account of disciplined practice and liberation.",
+    "body": [
+      {
+        "title": "A philosophical project",
+        "text": "The Yoga Sutras examine mental activity, suffering, attention, and the conditions for liberating discernment. Posture is one part of a larger discipline that includes ethical restraints, observances, breath, concentration, and meditation."
+      },
+      {
+        "title": "Historical caution",
+        "text": "The text’s dating and relationship to its early commentary are subjects of scholarship. Nor should the Yoga author automatically be equated with every other ancient author named Patanjali. The tradition’s attribution and the historical questions deserve separate attention."
+      }
+    ],
+    "traditions": [
+      "Classical Yoga"
+    ],
+    "aliases": [
+      "Patañjali"
+    ],
+    "relatedIDs": [
+      "yoga",
+      "karma",
+      "moksha"
+    ],
+    "bookIDs": [
+      "yoga-sutras"
+    ],
+    "sources": [
+      {
+        "title": "Internet Encyclopedia of Philosophy — Yoga Sutras",
+        "url": "https://iep.utm.edu/yoga/"
+      }
+    ],
+    "symbol": "book.closed"
+  },
+  {
+    "id": "yajnavalkya",
+    "name": "Yajnavalkya",
+    "sanskrit": "याज्ञवल्क्य · Yājñavalkya",
+    "kind": "Sage",
+    "subtitle": "The self under examination",
+    "summary": "Yajnavalkya is a central teacher in the Brihadaranyaka Upanishad, known for probing dialogue about the self.",
+    "body": [
+      {
+        "title": "Knowledge in conversation",
+        "text": "His teaching emerges through exchanges with figures including Gargi and Maitreyi. Their questions are part of the philosophy, not merely prompts for a finished lecture. Readers meet disagreements, analogies, and limits of speech."
+      },
+      {
+        "title": "The knower",
+        "text": "A recurring problem is how to know the self that makes knowing possible. Unlike an object seen from outside, the knowing subject cannot be captured in the same way. This inquiry becomes a major point of interpretation for later Vedanta schools."
+      }
+    ],
+    "traditions": [
+      "Upanishadic"
+    ],
+    "aliases": [
+      "Yajnavalkya"
+    ],
+    "relatedIDs": [
+      "gargi",
+      "maitreyi",
+      "atman",
+      "brahman"
+    ],
+    "bookIDs": [
+      "brihadaranyaka-upanishad"
+    ],
+    "sources": [
+      {
+        "title": "Brihadaranyaka Upanishad 2.4 — Müller",
+        "url": "https://archive.sacred-texts.com/hin/sbe15/sbe15061.htm"
+      },
+      {
+        "title": "Brihadaranyaka Upanishad 3.8 — Müller",
+        "url": "https://archive.sacred-texts.com/hin/sbe15/sbe15071.htm"
+      }
+    ],
+    "symbol": "book.closed"
+  },
+  {
+    "id": "gargi",
+    "name": "Gargi",
+    "sanskrit": "गार्गी · Gārgī",
+    "kind": "Sage",
+    "subtitle": "Questions that reach beyond the sky",
+    "summary": "Gargi Vachaknavi is a philosophical interlocutor who challenges Yajnavalkya in the Brihadaranyaka Upanishad.",
+    "body": [
+      {
+        "title": "What holds the world?",
+        "text": "Gargi asks what underlies the ordered world, using the image of weaving. Her questions lead beyond visible things to the imperishable. The dialogue makes intellectual courage and precise questioning central to inquiry."
+      },
+      {
+        "title": "Reading the evidence",
+        "text": "Her presence is important evidence of a woman participating in the text’s philosophical world. It does not by itself establish equal access for all women in ancient society. Honor the thinker while keeping the historical claim appropriately specific."
+      }
+    ],
+    "traditions": [
+      "Upanishadic"
+    ],
+    "aliases": [
+      "Gargi Vachaknavi",
+      "Vachaknavi"
+    ],
+    "relatedIDs": [
+      "yajnavalkya",
+      "maitreyi",
+      "brahman"
+    ],
+    "bookIDs": [
+      "brihadaranyaka-upanishad"
+    ],
+    "sources": [
+      {
+        "title": "Brihadaranyaka Upanishad 3.8 — Müller",
+        "url": "https://archive.sacred-texts.com/hin/sbe15/sbe15071.htm"
+      }
+    ],
+    "symbol": "book.closed"
+  },
+  {
+    "id": "maitreyi",
+    "name": "Maitreyi",
+    "sanskrit": "मैत्रेयी · Maitreyī",
+    "kind": "Sage",
+    "subtitle": "What wealth cannot answer",
+    "summary": "Maitreyi asks whether possessions can confer immortality and chooses to learn about the self.",
+    "body": [
+      {
+        "title": "A decisive question",
+        "text": "When Yajnavalkya prepares to leave household life, Maitreyi questions the value of wealth if it cannot meet her deepest aim. Their dialogue in Brihadaranyaka Upanishad 2.4 turns from property to what makes anything dear."
+      },
+      {
+        "title": "A demanding student",
+        "text": "Maitreyi does not merely accept a difficult claim: she says when an explanation confuses her. Her response is a useful model for study. Asking for clarity is part of philosophical practice, not a failure of reverence."
+      }
+    ],
+    "traditions": [
+      "Upanishadic"
+    ],
+    "aliases": [
+      "Maitreyī"
+    ],
+    "relatedIDs": [
+      "yajnavalkya",
+      "gargi",
+      "atman",
+      "moksha"
+    ],
+    "bookIDs": [
+      "brihadaranyaka-upanishad"
+    ],
+    "sources": [
+      {
+        "title": "Brihadaranyaka Upanishad 2.4 — Müller",
+        "url": "https://archive.sacred-texts.com/hin/sbe15/sbe15061.htm"
+      }
+    ],
+    "symbol": "book.closed"
+  },
+  {
+    "id": "shankara",
+    "name": "Shankara",
+    "sanskrit": "शङ्कर · Śaṅkara",
+    "kind": "Sage",
+    "subtitle": "An influential voice of nonduality",
+    "summary": "Shankara is a major teacher of Advaita Vedanta, best known for commentaries on foundational scriptures.",
+    "body": [
+      {
+        "title": "The Advaita emphasis",
+        "text": "Advaita distinguishes everyday experience from ultimate reality and holds that the true self is not other than Brahman. Liberation involves the removal of ignorance through knowledge, supported by disciplined preparation."
+      },
+      {
+        "title": "One school among many",
+        "text": "Shankara’s interpretation is influential but is not the only Hindu reading of the Upanishads or Gita. Ramanuja and Madhva articulate different accounts of reality. Compare their arguments without assuming that one name stands for all Hindu philosophy."
+      }
+    ],
+    "traditions": [
+      "Advaita Vedanta"
+    ],
+    "aliases": [
+      "Adi Shankara",
+      "Sankara",
+      "Shankaracharya"
+    ],
+    "relatedIDs": [
+      "brahman",
+      "atman",
+      "maya",
+      "vedanta",
+      "ramanuja",
+      "madhva"
+    ],
+    "bookIDs": [
+      "upanishads",
+      "brahma-sutras",
+      "bhagavad-gita"
+    ],
+    "sources": [
+      {
+        "title": "Internet Encyclopedia of Philosophy — Advaita Vedanta",
+        "url": "https://iep.utm.edu/advaita-vedanta/"
+      }
+    ],
+    "symbol": "book.closed"
+  },
+  {
+    "id": "ramanuja",
+    "name": "Ramanuja",
+    "sanskrit": "रामानुज · Rāmānuja",
+    "kind": "Sage",
+    "subtitle": "Unity that includes real difference",
+    "summary": "Ramanuja is a major Sri Vaishnava thinker associated with Vishishtadvaita, often translated as qualified nonduality.",
+    "body": [
+      {
+        "title": "A living whole",
+        "text": "Ramanuja understands the self and world as real and dependent upon Brahman, identified with the personal Lord. Unity does not require erasing the reality of distinct selves. The relation of a body to its indwelling self helps explain this dependence."
+      },
+      {
+        "title": "Knowledge and devotion",
+        "text": "His philosophy connects scriptural interpretation with devotion and liberation. It draws on a Sri Vaishnava world in which Sanskrit learning and Tamil devotional traditions are both significant. His work resists a simple opposition between reasoning and love of God."
+      }
+    ],
+    "traditions": [
+      "Sri Vaishnava",
+      "Vishishtadvaita Vedanta"
+    ],
+    "aliases": [
+      "Ramanujacharya"
+    ],
+    "relatedIDs": [
+      "vishnu",
+      "bhakti",
+      "brahman",
+      "atman",
+      "vedanta",
+      "shankara"
+    ],
+    "bookIDs": [
+      "brahma-sutras",
+      "bhagavad-gita",
+      "divya-prabandham"
+    ],
+    "sources": [
+      {
+        "title": "Internet Encyclopedia of Philosophy — Ramanuja",
+        "url": "https://iep.utm.edu/ramanuja/"
+      }
+    ],
+    "symbol": "book.closed"
+  },
+  {
+    "id": "madhva",
+    "name": "Madhva",
+    "sanskrit": "मध्व · Madhva",
+    "kind": "Sage",
+    "subtitle": "Difference as real",
+    "summary": "Madhva is the influential Vaishnava philosopher associated with Dvaita Vedanta.",
+    "body": [
+      {
+        "title": "Dependence and distinction",
+        "text": "Dvaita maintains a real distinction between the supreme Lord and individual selves. Vishnu is independent; finite beings depend on him. Liberation does not mean discovering that the individual and God were simply identical."
+      },
+      {
+        "title": "Why comparison matters",
+        "text": "Madhva, Ramanuja, and Shankara interpret overlapping scriptural sources yet reach different conclusions. Shared texts do not guarantee one doctrine. Reading their traditions together makes Hindu philosophy’s internal debates easier to recognize."
+      }
+    ],
+    "traditions": [
+      "Dvaita Vedanta",
+      "Vaishnava"
+    ],
+    "aliases": [
+      "Madhvacharya",
+      "Anandatirtha"
+    ],
+    "relatedIDs": [
+      "vishnu",
+      "vedanta",
+      "atman",
+      "brahman",
+      "ramanuja",
+      "shankara"
+    ],
+    "bookIDs": [
+      "brahma-sutras",
+      "bhagavad-gita",
+      "upanishads"
+    ],
+    "sources": [
+      {
+        "title": "Internet Encyclopedia of Philosophy — Madhva",
+        "url": "https://iep.utm.edu/madhva/"
+      }
+    ],
+    "symbol": "book.closed"
+  },
+  {
+    "id": "nachiketa",
+    "name": "Nachiketa",
+    "sanskrit": "नचिकेतस् · Naciketas",
+    "kind": "Sage",
+    "subtitle": "A student who questions death",
+    "summary": "Nachiketa is the young seeker in the Katha Upanishad who asks Yama, the lord of death, about the self.",
+    "body": [
+      {
+        "title": "Choosing the difficult question",
+        "text": "Offered wealth and long life, Nachiketa persists in seeking an answer about what lies beyond death. The dialogue distinguishes what is immediately pleasant from what is genuinely beneficial."
+      },
+      {
+        "title": "The chariot analogy",
+        "text": "The Katha Upanishad compares embodied life to a chariot with senses, mind, and understanding in different roles. The analogy asks how they can be ordered wisely. It is an educational image within a text, not a literal anatomical model."
+      }
+    ],
+    "traditions": [
+      "Upanishadic"
+    ],
+    "aliases": [
+      "Naciketas",
+      "Nachiketas"
+    ],
+    "relatedIDs": [
+      "atman",
+      "yoga",
+      "moksha",
+      "yama"
+    ],
+    "bookIDs": [
+      "upanishads"
+    ],
+    "sources": [
+      {
+        "title": "Katha Upanishad 1.1 — Müller",
+        "url": "https://archive.sacred-texts.com/hin/sbe15/sbe15010.htm"
+      },
+      {
+        "title": "Katha Upanishad 1.2 — Müller",
+        "url": "https://archive.sacred-texts.com/hin/sbe15/sbe15011.htm"
+      },
+      {
+        "title": "Katha Upanishad 1.3 — Müller",
+        "url": "https://sacred-texts.com/hin/sbe15/sbe15012.htm"
+      }
+    ],
+    "symbol": "book.closed"
+  },
+  {
+    "id": "dharma",
+    "name": "Dharma",
+    "sanskrit": "धर्म · Dharma",
+    "kind": "Concept",
+    "subtitle": "What sustains a life together",
+    "summary": "Dharma can mean sustaining order, duty, ethical conduct, teaching, or a way of life; context determines the emphasis.",
+    "body": [
+      {
+        "title": "A question, not just a rule",
+        "text": "In an epic, dharma may involve conflicting responsibilities to family, promises, justice, and the wider community. A claim of duty still needs interpretation. Arjuna’s crisis and Draupadi’s question make that difficulty concrete."
+      },
+      {
+        "title": "History and critique",
+        "text": "Some dharma literature prescribes hierarchy by social status and gender. These prescriptions are not a complete description of lived history or a universal ethical command today. Hindu thinkers and communities have debated, challenged, and reinterpreted inherited social arrangements."
+      }
+    ],
+    "traditions": [
+      "Across Hindu traditions"
+    ],
+    "aliases": [
+      "Duty",
+      "Ethics"
+    ],
+    "relatedIDs": [
+      "karma",
+      "arjuna",
+      "draupadi",
+      "yudhishthira"
+    ],
+    "bookIDs": [
+      "bhagavad-gita",
+      "mahabharata",
+      "tirukkural"
+    ],
+    "sources": [
+      {
+        "title": "Harvard Pluralism Project — Dharma",
+        "url": "https://pluralism.org/dharma-the-social-order"
+      },
+      {
+        "title": "Bhagavad Gita 1 — Arjuna’s crisis",
+        "url": "https://sacred-texts.com/book/the-bhagavad-gita-2/read/chapter-1-of-the-distress-of-arjuna"
+      }
+    ],
+    "symbol": "leaf"
+  },
+  {
+    "id": "karma",
+    "name": "Karma",
+    "sanskrit": "कर्म · Karma",
+    "kind": "Concept",
+    "subtitle": "Action has consequences",
+    "summary": "Karma means action and, in many philosophical contexts, the connection between actions and their effects across time and lives.",
+    "body": [
+      {
+        "title": "More than fate",
+        "text": "Karma does not mean that nothing can change. Action matters precisely because conduct has effects. Theories differ on intention, ritual, grace, and the way karmic results mature. A simple scorekeeping metaphor obscures those differences."
+      },
+      {
+        "title": "Practice without blame",
+        "text": "The Gita explores action without possessive attachment to its fruits. As an ethical reading practice, examine your own choices before speculating about another person’s suffering. A theory of karma is not evidence that a particular person deserves misfortune."
+      }
+    ],
+    "traditions": [
+      "Across Hindu traditions"
+    ],
+    "aliases": [
+      "Karman",
+      "Action"
+    ],
+    "relatedIDs": [
+      "dharma",
+      "samsara",
+      "moksha",
+      "krishna"
+    ],
+    "bookIDs": [
+      "bhagavad-gita",
+      "upanishads",
+      "yoga-sutras"
+    ],
+    "sources": [
+      {
+        "title": "Harvard Pluralism Project — Karma",
+        "url": "https://pluralism.org/karma-the-way-of-action"
+      },
+      {
+        "title": "Bhagavad Gita 3 — Action",
+        "url": "https://sacred-texts.com/book/the-bhagavad-gita-2/read/chapter-3-virtue-in-work"
+      },
+      {
+        "title": "Mahabharata Book VI, Gita chapters — K. M. Ganguli",
+        "url": "https://www.gutenberg.org/ebooks/15475"
+      }
+    ],
+    "symbol": "arrow.triangle.2.circlepath"
+  },
+  {
+    "id": "samsara",
+    "name": "Samsara",
+    "sanskrit": "संसार · Saṃsāra",
+    "kind": "Concept",
+    "subtitle": "The recurring cycle of becoming",
+    "summary": "Samsara is the cycle of birth, death, and rebirth from which many Hindu paths seek liberation.",
+    "body": [
+      {
+        "title": "A condition of limitation",
+        "text": "Samsara names more than repeated biological lives. It also points to a condition shaped by desire, action, ignorance, and suffering. Philosophical traditions differ over what persists and how the cycle operates."
+      },
+      {
+        "title": "Distinguish the destination",
+        "text": "A favorable rebirth or a heavenly experience is not necessarily moksha. In many accounts these remain within a changing cosmos. Liberation concerns release from the binding condition itself, not simply a more comfortable place within it."
+      }
+    ],
+    "traditions": [
+      "Across Hindu traditions"
+    ],
+    "aliases": [
+      "Rebirth",
+      "Transmigration"
+    ],
+    "relatedIDs": [
+      "karma",
+      "moksha",
+      "atman"
+    ],
+    "bookIDs": [
+      "upanishads",
+      "bhagavad-gita"
+    ],
+    "sources": [
+      {
+        "title": "Brihadaranyaka Upanishad 4.4 — Müller",
+        "url": "https://archive.sacred-texts.com/hin/sbe15/sbe15076.htm"
+      },
+      {
+        "title": "Bhagavad Gita 2 — The self and action",
+        "url": "https://sacred-texts.com/book/the-bhagavad-gita-2/read/chapter-2-of-doctrines"
+      }
+    ],
+    "symbol": "arrow.triangle.2.circlepath"
+  },
+  {
+    "id": "moksha",
+    "name": "Moksha",
+    "sanskrit": "मोक्ष · Mokṣa",
+    "kind": "Concept",
+    "subtitle": "Freedom from bondage",
+    "summary": "Moksha is liberation from samsara and the conditions that bind the self; its precise meaning varies by school.",
+    "body": [
+      {
+        "title": "Different accounts of freedom",
+        "text": "Advaita emphasizes liberating knowledge of the self’s nonduality with Brahman. Other Vedanta schools preserve real difference between self and Lord. Classical Yoga speaks of the isolation or independence of consciousness from material nature."
+      },
+      {
+        "title": "A goal within a life",
+        "text": "Liberation is often named alongside dharma, artha, and kama among human aims. It need not imply contempt for care, work, or relationship. Traditions differ over renunciation, household life, devotion, and the possibility of liberation while living."
+      }
+    ],
+    "traditions": [
+      "Across Hindu traditions"
+    ],
+    "aliases": [
+      "Mukthi",
+      "Mukti",
+      "Liberation"
+    ],
+    "relatedIDs": [
+      "samsara",
+      "atman",
+      "brahman",
+      "yoga",
+      "bhakti"
+    ],
+    "bookIDs": [
+      "upanishads",
+      "bhagavad-gita",
+      "yoga-sutras"
+    ],
+    "sources": [
+      {
+        "title": "Katha Upanishad 1.2 — Müller",
+        "url": "https://archive.sacred-texts.com/hin/sbe15/sbe15011.htm"
+      },
+      {
+        "title": "Internet Encyclopedia of Philosophy — Hindu philosophy",
+        "url": "https://iep.utm.edu/hindu-ph/"
+      }
+    ],
+    "symbol": "infinity"
+  },
+  {
+    "id": "atman",
+    "name": "Atman",
+    "sanskrit": "आत्मन् · Ātman",
+    "kind": "Concept",
+    "subtitle": "The question of the self",
+    "summary": "Atman commonly means self; philosophical texts ask what is most fundamental in a person beyond changing experiences.",
+    "body": [
+      {
+        "title": "An inquiry into identity",
+        "text": "The Upanishads explore the self through dialogue, negation, and analogy. Is it identical with body, sensation, memory, or something more basic? The inquiry is not simply a claim that the everyday personality lasts forever."
+      },
+      {
+        "title": "A crucial disagreement",
+        "text": "Advaita holds that the true self is not other than Brahman. Ramanuja and Madhva preserve the self’s real distinction in different ways. Do not turn the famous identity teaching into a statement every Hindu school accepts in the same sense."
+      }
+    ],
+    "traditions": [
+      "Upanishadic",
+      "Vedanta"
+    ],
+    "aliases": [
+      "Atma",
+      "Self"
+    ],
+    "relatedIDs": [
+      "brahman",
+      "shankara",
+      "ramanuja",
+      "madhva",
+      "maitreyi"
+    ],
+    "bookIDs": [
+      "upanishads",
+      "bhagavad-gita"
+    ],
+    "sources": [
+      {
+        "title": "Harvard Pluralism Project — Brahman and Atman",
+        "url": "https://pluralism.org/brahman-and-atman-that-art-thou"
+      },
+      {
+        "title": "Brihadaranyaka Upanishad 2.4 — Müller",
+        "url": "https://archive.sacred-texts.com/hin/sbe15/sbe15061.htm"
+      }
+    ],
+    "symbol": "circle"
+  },
+  {
+    "id": "brahman",
+    "name": "Brahman",
+    "sanskrit": "ब्रह्मन् · Brahman",
+    "kind": "Concept",
+    "subtitle": "Ultimate reality",
+    "summary": "Brahman is a central term for ultimate reality in the Upanishads and Vedanta; schools disagree on how to describe it.",
+    "body": [
+      {
+        "title": "Beyond a quick definition",
+        "text": "Some teachings emphasize Brahman beyond limiting qualities; others affirm a supreme personal reality with perfect qualities. These positions are developed through careful interpretation, not merely by choosing between a personal god and an abstract force."
+      },
+      {
+        "title": "Keep the names distinct",
+        "text": "Brahman is not the creator deity Brahma, nor the social category Brahmin. The distinction prevents many beginner confusions. To understand a passage, ask which school is speaking and how it relates Brahman to selves and the world."
+      }
+    ],
+    "traditions": [
+      "Upanishadic",
+      "Vedanta"
+    ],
+    "aliases": [
+      "Ultimate reality",
+      "Brahm"
+    ],
+    "relatedIDs": [
+      "atman",
+      "brahma",
+      "vedanta",
+      "shankara",
+      "ramanuja",
+      "madhva"
+    ],
+    "bookIDs": [
+      "upanishads",
+      "brahma-sutras"
+    ],
+    "sources": [
+      {
+        "title": "Brihadaranyaka Upanishad 3.8 — Müller",
+        "url": "https://archive.sacred-texts.com/hin/sbe15/sbe15071.htm"
+      },
+      {
+        "title": "Harvard Pluralism Project — Vedanta",
+        "url": "https://pluralism.org/vedanta-the-way-of-wisdom"
+      }
+    ],
+    "symbol": "infinity"
+  },
+  {
+    "id": "bhakti",
+    "name": "Bhakti",
+    "sanskrit": "भक्ति · Bhakti",
+    "kind": "Concept",
+    "subtitle": "Learning through love",
+    "summary": "Bhakti is devotion and loving participation in relationship with the divine.",
+    "body": [
+      {
+        "title": "Many forms of intimacy",
+        "text": "Singing, remembering divine names, worship, pilgrimage, and service can express bhakti. Devotees may relate as servants, friends, parents, or lovers. The emotional form depends on the community and the deity’s stories."
+      },
+      {
+        "title": "Not the opposite of thought",
+        "text": "Bhakti traditions produce sophisticated poetry, philosophy, and interpretation. In the Gita, devotion interacts with action and knowledge. Their relationship is often more fluid than a diagram of separate paths suggests."
+      }
+    ],
+    "traditions": [
+      "Across devotional traditions"
+    ],
+    "aliases": [
+      "Devotion",
+      "Bhakti yoga"
+    ],
+    "relatedIDs": [
+      "krishna",
+      "rama",
+      "hanuman",
+      "devi",
+      "puja",
+      "andal",
+      "tulsidas"
+    ],
+    "bookIDs": [
+      "bhagavad-gita",
+      "bhagavata-purana",
+      "tevaram",
+      "divya-prabandham"
+    ],
+    "sources": [
+      {
+        "title": "Harvard Pluralism Project — Bhakti",
+        "url": "https://pluralism.org/bhakti-the-way-of-devotion"
+      },
+      {
+        "title": "Bhagavad Gita — Edwin Arnold, 1885",
+        "url": "https://sacred-texts.com/hin/gita/index.htm"
+      },
+      {
+        "title": "Mahabharata Book VI, Gita chapters — K. M. Ganguli",
+        "url": "https://www.gutenberg.org/ebooks/15475"
+      }
+    ],
+    "symbol": "heart"
+  },
+  {
+    "id": "yoga",
+    "name": "Yoga",
+    "sanskrit": "योग · Yoga",
+    "kind": "Concept",
+    "subtitle": "A family of disciplines",
+    "summary": "Yoga names varied disciplines of attention, action, knowledge, devotion, and embodied practice across historical traditions.",
+    "body": [
+      {
+        "title": "Classical Yoga",
+        "text": "Patanjali’s system describes eight limbs: ethical restraints, observances, posture, breath regulation, sensory withdrawal, concentration, meditation, and samadhi. Its aim is liberating discernment, not merely fitness."
+      },
+      {
+        "title": "Read the local meaning",
+        "text": "Yoga in the Gita, the Yoga Sutras, and a modern studio may refer to different aims and methods. Compare contexts before assuming equivalence. An educational introduction is not a substitute for qualified guidance in demanding physical or breath practices."
+      }
+    ],
+    "traditions": [
+      "Classical Yoga",
+      "Bhagavad Gita",
+      "Many later traditions"
+    ],
+    "aliases": [
+      "Meditation",
+      "Dhyana",
+      "Ashtanga"
+    ],
+    "relatedIDs": [
+      "patanjali",
+      "karma",
+      "bhakti",
+      "moksha",
+      "purusha"
+    ],
+    "bookIDs": [
+      "yoga-sutras",
+      "bhagavad-gita"
+    ],
+    "sources": [
+      {
+        "title": "Yoga Sutras — Charles Johnston, 1912",
+        "url": "https://www.gutenberg.org/ebooks/2526"
+      },
+      {
+        "title": "Katha Upanishad 1.3 — Müller",
+        "url": "https://sacred-texts.com/hin/sbe15/sbe15012.htm"
+      }
+    ],
+    "symbol": "figure.mind.and.body"
+  },
+  {
+    "id": "avatar",
+    "name": "Avatar",
+    "sanskrit": "अवतार · Avatāra",
+    "kind": "Concept",
+    "subtitle": "A divine descent",
+    "summary": "An avatar is a divine descent or manifestation, especially associated with Vishnu in Hindu narrative and theology.",
+    "body": [
+      {
+        "title": "Restoring dharma",
+        "text": "The Gita presents divine manifestation in relation to the decline of dharma. Puranic narratives develop varied forms, from animal manifestations to Rama and Krishna. Lists and their ordering differ across texts and regions."
+      },
+      {
+        "title": "Beyond a superhero model",
+        "text": "An avatar is part of a religious account of divine presence and care. Different communities debate the relationship between a manifestation and its source; some Krishna traditions understand Krishna as the source of avatars."
+      }
+    ],
+    "traditions": [
+      "Vaishnava",
+      "Puranic"
+    ],
+    "aliases": [
+      "Avatara",
+      "Divine descent"
+    ],
+    "relatedIDs": [
+      "vishnu",
+      "krishna",
+      "rama",
+      "dharma"
+    ],
+    "bookIDs": [
+      "bhagavad-gita",
+      "vishnu-purana",
+      "bhagavata-purana"
+    ],
+    "sources": [
+      {
+        "title": "Bhagavad Gita — Edwin Arnold, 1885",
+        "url": "https://sacred-texts.com/hin/gita/index.htm"
+      },
+      {
+        "title": "Vishnu Purana 1.1 — H. H. Wilson, 1840",
+        "url": "https://sacred-texts.com/hin/vp/vp035.htm"
+      },
+      {
+        "title": "Mahabharata Book VI, Gita chapters — K. M. Ganguli",
+        "url": "https://www.gutenberg.org/ebooks/15475"
+      }
+    ],
+    "symbol": "sparkles"
+  },
+  {
+    "id": "shakti",
+    "name": "Shakti",
+    "sanskrit": "शक्ति · Śakti",
+    "kind": "Concept",
+    "subtitle": "Power and divine agency",
+    "summary": "Shakti means power or capacity; in many Hindu traditions it names divine power, particularly the Goddess.",
+    "body": [
+      {
+        "title": "A theological term",
+        "text": "In Shakta traditions, Shakti is not secondary to a male deity: she is the supreme creative reality. Other traditions explain her relation to Shiva or Vishnu differently. The word’s meaning depends on the theological setting."
+      },
+      {
+        "title": "Reading imagery",
+        "text": "A divine couple may express inseparable aspects of reality rather than simply reproduce a human marriage. Sacred images invite several levels of reading, but explanations should remain tied to a text, lineage, or documented local practice."
+      }
+    ],
+    "traditions": [
+      "Shakta",
+      "Shaiva"
+    ],
+    "aliases": [
+      "Sakti",
+      "Divine power"
+    ],
+    "relatedIDs": [
+      "devi",
+      "shiva",
+      "parvati",
+      "durga",
+      "kali"
+    ],
+    "bookIDs": [
+      "devi-mahatmya"
+    ],
+    "sources": [
+      {
+        "title": "Harvard Pluralism Project — Many Ma’s",
+        "url": "https://pluralism.org/many-ma%E2%80%99s-goddess-in-america"
+      },
+      {
+        "title": "The Metropolitan Museum of Art — Hinduism and Hindu art",
+        "url": "https://www.metmuseum.org/essays/hinduism-and-hindu-art"
+      },
+      {
+        "title": "Devi Mahatmya, chapter 11 — Pargiter, 1904",
+        "url": "https://www.wisdomlib.org/hinduism/book/the-markandeya-purana/d/doc117171.html"
+      }
+    ],
+    "symbol": "bolt"
+  },
+  {
+    "id": "maya",
+    "name": "Maya",
+    "sanskrit": "माया · Māyā",
+    "kind": "Concept",
+    "subtitle": "Appearance and creative power",
+    "summary": "Maya has several meanings, including extraordinary power, divine manifestation, and the conditions of misleading appearance.",
+    "body": [
+      {
+        "title": "In Advaita",
+        "text": "Maya helps explain how a world of difference is experienced although Brahman is nondual. Saying merely that the world is fake is misleading: everyday experience and responsibility retain practical significance."
+      },
+      {
+        "title": "Across traditions",
+        "text": "Other texts and schools speak of maya as divine power and do not share Advaita’s account. The same Sanskrit word can carry a different philosophical load. Identify the speaker before importing a definition from another tradition."
+      }
+    ],
+    "traditions": [
+      "Vedanta",
+      "Puranic"
+    ],
+    "aliases": [
+      "Illusion"
+    ],
+    "relatedIDs": [
+      "brahman",
+      "shankara",
+      "krishna",
+      "shakti"
+    ],
+    "bookIDs": [
+      "upanishads",
+      "bhagavad-gita"
+    ],
+    "sources": [
+      {
+        "title": "Internet Encyclopedia of Philosophy — Advaita Vedanta",
+        "url": "https://iep.utm.edu/advaita-vedanta/"
+      },
+      {
+        "title": "Bhagavad Gita — Edwin Arnold, 1885",
+        "url": "https://sacred-texts.com/hin/gita/index.htm"
+      }
+    ],
+    "symbol": "circle.lefthalf.filled"
+  },
+  {
+    "id": "puja",
+    "name": "Puja",
+    "sanskrit": "पूजा · Pūjā",
+    "kind": "Concept",
+    "subtitle": "A relationship expressed in offering",
+    "summary": "Puja is worship that may include welcoming a deity, offering light, water, flowers or food, and receiving prasada.",
+    "body": [
+      {
+        "title": "An act of hospitality",
+        "text": "Puja can take place at home or in a temple, with a short daily practice or an elaborate communal ritual. Offerings express attention and devotion. Prasada is received as a gift of grace, not simply as leftover food."
+      },
+      {
+        "title": "Participating thoughtfully",
+        "text": "Practice varies by family, temple, region, and lineage. Follow a host’s guidance about shoes, photography, access, and offerings. You can learn respectfully as an observer; the app does not prescribe one ritual as mandatory for everyone."
+      }
+    ],
+    "traditions": [
+      "Across Hindu traditions"
+    ],
+    "aliases": [
+      "Pooja",
+      "Worship",
+      "Prasada",
+      "Arati"
+    ],
+    "relatedIDs": [
+      "darshan",
+      "bhakti",
+      "ganesha",
+      "lakshmi"
+    ],
+    "bookIDs": [
+      "bhagavad-gita"
+    ],
+    "sources": [
+      {
+        "title": "Harvard Pluralism Project — Lamp offerings",
+        "url": "https://pluralism.org/lamp-offerings-hindu-worship"
+      }
+    ],
+    "symbol": "flame"
+  },
+  {
+    "id": "darshan",
+    "name": "Darshan",
+    "sanskrit": "दर्शन · Darśana",
+    "kind": "Concept",
+    "subtitle": "Seeing and being seen",
+    "summary": "In worship, darshan is the auspicious encounter of seeing the deity and being seen by the deity.",
+    "body": [
+      {
+        "title": "Presence rather than a picture",
+        "text": "A consecrated murti can be understood as a living divine presence within the practices of a community. Darshan therefore involves relationship, not simply appreciation of an artwork. Museum viewing and temple encounter offer different contexts."
+      },
+      {
+        "title": "Another use of the word",
+        "text": "Darshana can also mean a philosophical viewpoint or school. Do not confuse a reference to the six darshanas with a list of six forms of temple viewing. Shared vocabulary often has multiple uses."
+      }
+    ],
+    "traditions": [
+      "Across Hindu traditions"
+    ],
+    "aliases": [
+      "Darsana",
+      "Darshana",
+      "Murti"
+    ],
+    "relatedIDs": [
+      "puja",
+      "bhakti",
+      "vedanta"
+    ],
+    "bookIDs": [
+      "bhagavad-gita"
+    ],
+    "sources": [
+      {
+        "title": "Harvard Pluralism Project — Temple and image",
+        "url": "https://pluralism.org/abodes-of-god-temple-and-image"
+      },
+      {
+        "title": "Harvard Pluralism Project — Murti",
+        "url": "https://pluralism.org/murti-the-image-of-god"
+      }
+    ],
+    "symbol": "eye"
+  },
+  {
+    "id": "vedanta",
+    "name": "Vedanta",
+    "sanskrit": "वेदान्त · Vedānta",
+    "kind": "Concept",
+    "subtitle": "A conversation about ultimate reality",
+    "summary": "Vedanta is a family of philosophical traditions interpreting the Upanishads, Brahma Sutras, and Bhagavad Gita.",
+    "body": [
+      {
+        "title": "Shared questions",
+        "text": "What is Brahman? What is the self? How is the world related to both? How can bondage end? Vedanta schools share a textual conversation without arriving at the same answers."
+      },
+      {
+        "title": "Map the differences",
+        "text": "Advaita, Vishishtadvaita, and Dvaita are influential examples, not an exhaustive list. Nor is Vedanta all Hindu philosophy: Samkhya, Yoga, Nyaya, Vaisheshika, and Mimamsa have their own questions, texts, and debates."
+      }
+    ],
+    "traditions": [
+      "Vedanta"
+    ],
+    "aliases": [
+      "Uttara Mimamsa"
+    ],
+    "relatedIDs": [
+      "brahman",
+      "atman",
+      "shankara",
+      "ramanuja",
+      "madhva"
+    ],
+    "bookIDs": [
+      "upanishads",
+      "brahma-sutras",
+      "bhagavad-gita"
+    ],
+    "sources": [
+      {
+        "title": "Harvard Pluralism Project — Vedanta",
+        "url": "https://pluralism.org/vedanta-the-way-of-wisdom"
+      },
+      {
+        "title": "Internet Encyclopedia of Philosophy — Hindu philosophy",
+        "url": "https://iep.utm.edu/hindu-ph/"
+      }
+    ],
+    "symbol": "book"
+  },
+  {
+    "id": "yuga",
+    "name": "Yuga",
+    "sanskrit": "युग · Yuga",
+    "kind": "Concept",
+    "subtitle": "An age within cosmic time",
+    "summary": "A yuga is an age; many Puranic accounts arrange four ages into a recurring cycle.",
+    "body": [
+      {
+        "title": "The four ages",
+        "text": "Krita or Satya, Treta, Dvapara, and Kali form a commonly used sequence. The Puranic model assigns them unequal durations and describes a decline in dharma across the sequence. It is a religious cosmology, not a scientific timeline."
+      },
+      {
+        "title": "A useful distinction",
+        "text": "Kali Yuga is named for Kali as a figure of strife, not the Goddess Kālī. English spellings can make them look identical. Cosmic ages also should not be used to reduce every historical event to a predetermined moral script."
+      }
+    ],
+    "traditions": [
+      "Puranic"
+    ],
+    "aliases": [
+      "Satya Yuga",
+      "Treta Yuga",
+      "Dvapara Yuga",
+      "Kali Yuga"
+    ],
+    "relatedIDs": [
+      "kalpa",
+      "dharma",
+      "brahma",
+      "kali"
+    ],
+    "bookIDs": [
+      "vishnu-purana",
+      "bhagavata-purana"
+    ],
+    "sources": [
+      {
+        "title": "Vishnu Purana 1.3 — Cosmic time",
+        "url": "https://sacred-texts.com/hin/vp/vp037.htm"
+      }
+    ],
+    "symbol": "clock"
+  },
+  {
+    "id": "kalpa",
+    "name": "Kalpa",
+    "sanskrit": "कल्प · Kalpa",
+    "kind": "Concept",
+    "subtitle": "Creation on an immense scale",
+    "summary": "In a common Puranic time model, a kalpa is a day of Brahma containing one thousand four-yuga cycles.",
+    "body": [
+      {
+        "title": "Nested cycles",
+        "text": "Using this model’s human-year conversion, one four-yuga cycle lasts 4.32 million years, and a day of Brahma lasts 4.32 billion. A corresponding night expresses dissolution or rest before renewed manifestation."
+      },
+      {
+        "title": "What the model offers",
+        "text": "The scale invites reflection on impermanence and renewal. Different texts distinguish several kinds of dissolution. An interactive visualization can clarify proportions, but its numerical precision must not be mistaken for scientific verification of the cosmology."
+      }
+    ],
+    "traditions": [
+      "Puranic"
+    ],
+    "aliases": [
+      "Day of Brahma",
+      "Cosmic cycle",
+      "Pralaya"
+    ],
+    "relatedIDs": [
+      "yuga",
+      "brahma",
+      "vishnu"
+    ],
+    "bookIDs": [
+      "vishnu-purana",
+      "bhagavad-gita"
+    ],
+    "sources": [
+      {
+        "title": "Vishnu Purana 1.3 — Cosmic time",
+        "url": "https://sacred-texts.com/hin/vp/vp037.htm"
+      }
+    ],
+    "symbol": "infinity"
+  },
+  {
+    "id": "sanjaya",
+    "name": "Sanjaya",
+    "sanskrit": "सञ्जय · Sañjaya",
+    "kind": "Epic figure",
+    "subtitle": "The voice that reports the battlefield",
+    "summary": "Sanjaya narrates events of the Kurukshetra war to King Dhritarashtra, including Krishna’s dialogue with Arjuna.",
+    "body": [
+      {
+        "title": "A conversation within a telling",
+        "text": "The Gita begins with Dhritarashtra’s question and Sanjaya’s account. Remembering this frame clarifies who is speaking when the text shifts from dialogue to description."
+      },
+      {
+        "title": "The listener’s position",
+        "text": "Sanjaya’s narration brings events to a king who is absent from the battlefield. As readers, we also learn through a transmitted account. The frame invites attention to witnesses, listeners, and the responsibilities that knowledge creates."
+      }
+    ],
+    "traditions": [
+      "Mahabharata"
+    ],
+    "aliases": [
+      "Sañjaya"
+    ],
+    "relatedIDs": [
+      "dhritarashtra",
+      "arjuna",
+      "krishna",
+      "vyasa"
+    ],
+    "bookIDs": [
+      "bhagavad-gita",
+      "mahabharata"
+    ],
+    "sources": [
+      {
+        "title": "Bhagavad Gita 1 — Arjuna’s crisis",
+        "url": "https://sacred-texts.com/book/the-bhagavad-gita-2/read/chapter-1-of-the-distress-of-arjuna"
+      }
+    ],
+    "symbol": "person"
+  },
+  {
+    "id": "dhritarashtra",
+    "name": "Dhritarashtra",
+    "sanskrit": "धृतराष्ट्र · Dhṛtarāṣṭra",
+    "kind": "Epic figure",
+    "subtitle": "A king facing the consequences",
+    "summary": "Dhritarashtra is the Kuru king, father of Duryodhana, and listener to Sanjaya’s battlefield narration.",
+    "body": [
+      {
+        "title": "Family and government",
+        "text": "Dhritarashtra’s attachment to his sons complicates his duty as ruler. His hesitation and failures of intervention contribute to the crisis around the Pandavas. His story asks how private loyalties can distort public responsibility."
+      },
+      {
+        "title": "Read disability carefully",
+        "text": "The epic identifies him as blind. His harmful decisions should be evaluated as decisions; blindness itself is not moral failure. Avoid turning a bodily condition into a judgment about the character of real disabled people."
+      }
+    ],
+    "traditions": [
+      "Mahabharata"
+    ],
+    "aliases": [
+      "Dhritarastra"
+    ],
+    "relatedIDs": [
+      "sanjaya",
+      "duryodhana",
+      "bhishma",
+      "yudhishthira"
+    ],
+    "bookIDs": [
+      "mahabharata",
+      "bhagavad-gita"
+    ],
+    "sources": [
+      {
+        "title": "Mahabharata, Adi Parva — K. M. Ganguli",
+        "url": "https://sacred-texts.com/hin/m01/index.htm"
+      },
+      {
+        "title": "Mahabharata, Dutt’s abridgment, The fatal dice",
+        "url": "https://sacred-texts.com/hin/dutt/maha04.htm"
+      },
+      {
+        "title": "Bhagavad Gita 1 — Arjuna’s crisis",
+        "url": "https://sacred-texts.com/book/the-bhagavad-gita-2/read/chapter-1-of-the-distress-of-arjuna"
+      }
+    ],
+    "symbol": "person"
+  },
+  {
+    "id": "yama",
+    "name": "Yama",
+    "sanskrit": "यम · Yama",
+    "kind": "Deity",
+    "subtitle": "Death as a teacher",
+    "summary": "Yama is associated with death and the departed; in the Katha Upanishad he teaches Nachiketa about the self.",
+    "body": [
+      {
+        "title": "The difficult request",
+        "text": "Nachiketa asks Yama what happens beyond death. Before teaching him, Yama offers attractive alternatives. The exchange tests whether the student seeks lasting understanding or merely temporary gratification."
+      },
+      {
+        "title": "A name in another setting",
+        "text": "In the Yoga Sutras, yama also names ethical restraints such as non-harming and truthfulness. That use is not a reference to worshipping the deity of death. Translate the word according to its setting."
+      }
+    ],
+    "traditions": [
+      "Vedic",
+      "Upanishadic"
+    ],
+    "aliases": [
+      "Dharmaraja"
+    ],
+    "relatedIDs": [
+      "nachiketa",
+      "atman",
+      "moksha",
+      "yoga"
+    ],
+    "bookIDs": [
+      "katha-upanishad",
+      "upanishads",
+      "yoga-sutras"
+    ],
+    "sources": [
+      {
+        "title": "Katha Upanishad 1.1 — Müller",
+        "url": "https://archive.sacred-texts.com/hin/sbe15/sbe15010.htm"
+      },
+      {
+        "title": "Katha Upanishad 1.2 — Müller",
+        "url": "https://archive.sacred-texts.com/hin/sbe15/sbe15011.htm"
+      }
+    ],
+    "symbol": "moon"
+  },
+  {
+    "id": "vibhishana",
+    "name": "Vibhishana",
+    "sanskrit": "विभीषण · Vibhīṣaṇa",
+    "kind": "Epic figure",
+    "subtitle": "Dissent within a royal family",
+    "summary": "Vibhishana is Ravana’s brother, who advises the return of Sita and eventually joins Rama.",
+    "body": [
+      {
+        "title": "Counsel rejected",
+        "text": "Vibhishana argues that Ravana’s course will bring destruction. When that counsel is rejected, he leaves Lanka’s court and seeks refuge with Rama. His choice puts judgment into conflict with family solidarity."
+      },
+      {
+        "title": "A question of loyalty",
+        "text": "Is loyalty owed to a relative regardless of conduct, or can it require opposition? The story offers Vibhishana as an example of rejecting wrongdoing despite a close bond. Regional retellings can emphasize the political costs differently."
+      }
+    ],
+    "traditions": [
+      "Ramayana"
+    ],
+    "aliases": [
+      "Vibheeshana"
+    ],
+    "relatedIDs": [
+      "ravana",
+      "rama",
+      "sita",
+      "dharma"
+    ],
+    "bookIDs": [
+      "ramayana"
+    ],
+    "sources": [
+      {
+        "title": "Ramayana, Dutt’s abridgment, Council of war",
+        "url": "https://sacred-texts.com/hin/dutt/rama09.htm"
+      }
+    ],
+    "symbol": "person"
+  },
+  {
+    "id": "duryodhana",
+    "name": "Duryodhana",
+    "sanskrit": "दुर्योधन · Duryodhana",
+    "kind": "Epic figure",
+    "subtitle": "Rivalry hardened into war",
+    "summary": "Duryodhana is the leading Kaurava prince and the Pandavas’ principal rival in the Mahabharata.",
+    "body": [
+      {
+        "title": "Power and friendship",
+        "text": "Duryodhana’s support gives Karna recognition and cements their friendship. That generous act toward a friend coexists with his hostility toward the Pandavas and his participation in Draupadi’s humiliation."
+      },
+      {
+        "title": "Understand without excusing",
+        "text": "A useful reading can trace resentment, entitlement, political calculation, and loyalty without turning them into excuses. The epic’s depth comes partly from showing how admirable qualities can serve destructive aims."
+      }
+    ],
+    "traditions": [
+      "Mahabharata"
+    ],
+    "aliases": [
+      "Suyodhana"
+    ],
+    "relatedIDs": [
+      "dhritarashtra",
+      "karna",
+      "draupadi",
+      "bhima",
+      "yudhishthira"
+    ],
+    "bookIDs": [
+      "mahabharata"
+    ],
+    "sources": [
+      {
+        "title": "Mahabharata, Dutt’s abridgment, The tournament",
+        "url": "https://sacred-texts.com/book/the-ramayana-and-mahabharata/read/book-i-the-tournament"
+      },
+      {
+        "title": "Mahabharata, Dutt’s abridgment, The fatal dice",
+        "url": "https://sacred-texts.com/hin/dutt/maha04.htm"
+      }
+    ],
+    "symbol": "person"
+  },
+  {
+    "id": "varuna",
+    "name": "Varuna",
+    "sanskrit": "वरुण · Varuṇa",
+    "kind": "Deity",
+    "subtitle": "Order, restraint, and accountability",
+    "summary": "Varuna is a Vedic deity associated with cosmic order and the keeping of moral and ritual obligations.",
+    "body": [
+      {
+        "title": "An appeal for release",
+        "text": "Rig Vedic hymns address Varuna as a sovereign who knows human conduct. A worshipper may ask to be released from bonds or wrongdoing. Praise, fear, and trust coexist in this relationship."
+      },
+      {
+        "title": "Follow the historical layers",
+        "text": "Later Hindu traditions often connect Varuna especially with waters. This does not exhaust his Vedic role. A deity’s later visual attributes and earlier hymn language can illuminate different stages of a continuing tradition."
+      }
+    ],
+    "traditions": [
+      "Vedic",
+      "Puranic"
+    ],
+    "aliases": [
+      "Varuṇa"
+    ],
+    "relatedIDs": [
+      "indra",
+      "agni",
+      "dharma"
+    ],
+    "bookIDs": [
+      "rig-veda"
+    ],
+    "sources": [
+      {
+        "title": "Rig Veda 1.25 — Varuna, Griffith",
+        "url": "https://archive.sacred-texts.com/hin/rigveda/rv01025.htm"
+      }
+    ],
+    "symbol": "water.waves"
+  },
+  {
+    "id": "ushas",
+    "name": "Ushas",
+    "sanskrit": "उषस् · Uṣas",
+    "kind": "Deity",
+    "subtitle": "Dawn that awakens the world",
+    "summary": "Ushas is the Vedic Goddess of dawn, praised for bringing light and awakening living beings.",
+    "body": [
+      {
+        "title": "A recurring arrival",
+        "text": "Hymns describe dawn through motion, radiance, and renewed activity. The daily transition becomes an occasion for praise and a reflection on dependence upon a world that humans do not create by themselves."
+      },
+      {
+        "title": "Read the poetry",
+        "text": "Ushas is a divine presence within the hymns, not just a decorative metaphor for sunrise. Attend to what the poet asks for and how praise works. Her imagery offers a different entrance into Vedic religion from warrior or sacrificial themes."
+      }
+    ],
+    "traditions": [
+      "Vedic"
+    ],
+    "aliases": [
+      "Usha",
+      "Dawn"
+    ],
+    "relatedIDs": [
+      "agni",
+      "indra",
+      "prithvi"
+    ],
+    "bookIDs": [
+      "rig-veda"
+    ],
+    "sources": [
+      {
+        "title": "Rig Veda 1.48 — Dawn, Griffith",
+        "url": "https://sacred-texts.com/hin/rigveda/rv01048.htm"
+      }
+    ],
+    "symbol": "sunrise"
+  },
+  {
+    "id": "soma",
+    "name": "Soma",
+    "sanskrit": "सोम · Soma",
+    "kind": "Deity",
+    "subtitle": "A sacred offering and divine presence",
+    "summary": "In Vedic contexts, Soma names a deity and the ritually prepared substance praised and offered in sacrifice.",
+    "body": [
+      {
+        "title": "The flowing hymn",
+        "text": "The ninth book of the Rig Veda centers Soma’s purification and flow. Material preparation, poetic praise, and divine agency are intertwined. A ritual object and its deity cannot always be separated into modern categories."
+      },
+      {
+        "title": "Avoid an easy identification",
+        "text": "Proposals about the original Soma plant remain contested. The hymn alone does not establish a modern botanical or pharmacological identification. Later traditions also connect Soma with the moon, adding another layer to the name’s history."
+      }
+    ],
+    "traditions": [
+      "Vedic"
+    ],
+    "aliases": [
+      "Pavamana",
+      "Soma Pavamana"
+    ],
+    "relatedIDs": [
+      "indra",
+      "agni"
+    ],
+    "bookIDs": [
+      "rig-veda",
+      "sama-veda"
+    ],
+    "sources": [
+      {
+        "title": "Rig Veda 9.1 — Soma, Griffith",
+        "url": "https://sacred-texts.com/hin/rigveda/rv09001.htm"
+      }
+    ],
+    "symbol": "drop"
+  },
+  {
+    "id": "purusha",
+    "name": "Purusha",
+    "sanskrit": "पुरुष · Puruṣa",
+    "kind": "Concept",
+    "subtitle": "Person, cosmic being, or consciousness",
+    "summary": "Purusha has several uses: a cosmic person in a Vedic hymn and consciousness in Samkhya and classical Yoga.",
+    "body": [
+      {
+        "title": "The cosmic hymn",
+        "text": "Rig Veda 10.90 presents the world arising through the sacrifice of a vast cosmic being. It also places social categories within that body. This is a text to interpret historically and ethically, not a reason to naturalize social inequality."
+      },
+      {
+        "title": "A philosophical distinction",
+        "text": "In Samkhya, purusha is witnessing consciousness, distinguished from prakriti, material nature. Classical Yoga draws on a related distinction. Do not assume that this technical usage and the hymn’s cosmic person are identical simply because the Sanskrit word is the same."
+      }
+    ],
+    "traditions": [
+      "Vedic",
+      "Samkhya",
+      "Classical Yoga"
+    ],
+    "aliases": [
+      "Purusa",
+      "Cosmic person"
+    ],
+    "relatedIDs": [
+      "atman",
+      "yoga",
+      "patanjali",
+      "brahman"
+    ],
+    "bookIDs": [
+      "rig-veda",
+      "samkhya-karika",
+      "yoga-sutras"
+    ],
+    "sources": [
+      {
+        "title": "Rig Veda 10.90 — Purusha hymn, Griffith",
+        "url": "https://sacred-texts.com/hin/rigveda/rv10090.htm"
+      },
+      {
+        "title": "Internet Encyclopedia of Philosophy — Samkhya",
+        "url": "https://iep.utm.edu/sankhya/"
+      }
+    ],
+    "symbol": "circle"
+  },
+  {
+    "id": "prajapati",
+    "name": "Prajapati",
+    "sanskrit": "प्रजापति · Prajāpati",
+    "kind": "Deity",
+    "subtitle": "Lord of creatures",
+    "summary": "Prajapati is a title and divine figure associated with generation and the ordering of beings in Vedic literature.",
+    "body": [
+      {
+        "title": "An evolving creator language",
+        "text": "Vedic texts explore origins through several divine names and images. Rig Veda 10.121 invokes the source of creation through a repeated question and ends by addressing Prajapati. Other texts develop creator narratives in different ways."
+      },
+      {
+        "title": "Do not merge every name",
+        "text": "Prajapati can be related to later accounts of Brahma, while also functioning as a broader title. Hiranyagarbha, Brahma, Brahman, and Prajapati should be distinguished before their relationships are interpreted in a particular text."
+      }
+    ],
+    "traditions": [
+      "Vedic"
+    ],
+    "aliases": [
+      "Lord of creatures"
+    ],
+    "relatedIDs": [
+      "brahma",
+      "brahman",
+      "purusha"
+    ],
+    "bookIDs": [
+      "rig-veda",
+      "shatapatha-brahmana"
+    ],
+    "sources": [
+      {
+        "title": "Rig Veda 10.121 — Hiranyagarbha, Griffith",
+        "url": "https://sacred-texts.com/hin/rigveda/rv10121.htm"
+      }
+    ],
+    "symbol": "sun.max"
+  },
+  {
+    "id": "prithvi",
+    "name": "Prithvi",
+    "sanskrit": "पृथिवी · Pṛthivī",
+    "kind": "Deity",
+    "subtitle": "Earth that supports life",
+    "summary": "Prithvi is the Earth revered as a Goddess and sustaining presence in Vedic and later Hindu traditions.",
+    "body": [
+      {
+        "title": "The supporting earth",
+        "text": "Rig Veda 5.84 praises Earth’s breadth and her bearing of mountains and living growth. The hymn places human life in dependence on a world with its own dignity and power."
+      },
+      {
+        "title": "Name and form",
+        "text": "Prithvi, Bhumi, and Bhudevi belong to overlapping earth-goddess traditions. Texts and images may emphasize different relationships, including Vishnu’s rescue of Earth. Learn the local account before treating all names as interchangeable in every detail."
+      }
+    ],
+    "traditions": [
+      "Vedic",
+      "Vaishnava"
+    ],
+    "aliases": [
+      "Prithivi",
+      "Bhumi",
+      "Bhudevi"
+    ],
+    "relatedIDs": [
+      "vishnu",
+      "sita",
+      "lakshmi"
+    ],
+    "bookIDs": [
+      "rig-veda",
+      "atharva-veda",
+      "varaha-purana"
+    ],
+    "sources": [
+      {
+        "title": "Rig Veda 5.84 — Prithivi, Griffith",
+        "url": "https://sacred-texts.com/hin/rigveda/rv05084.htm"
+      },
+      {
+        "title": "The Met — Vishnu with Lakshmi and Sarasvati",
+        "url": "https://www.metmuseum.org/art/collection/search/38530"
+      }
+    ],
+    "symbol": "leaf"
+  },
+  {
+    "id": "manu",
+    "name": "Manu",
+    "sanskrit": "मनु · Manu",
+    "kind": "Sage",
+    "subtitle": "Human beginnings across cosmic cycles",
+    "summary": "Manu is a progenitor and lawgiving figure; several texts describe multiple Manus presiding over successive cosmic periods.",
+    "body": [
+      {
+        "title": "The flood narrative",
+        "text": "In a Mahabharata telling, Manu protects a fish that later guides him through a vast flood. The story links care, foresight, preservation, and renewed creation. The fish’s identity and details of the event differ across textual tellings."
+      },
+      {
+        "title": "Separate figure and text",
+        "text": "Manusmriti is traditionally attributed to Manu, but traditional attribution is not a modern authorship record. Its social prescriptions have been deeply contested. It does not function as a single binding lawbook for all Hindus or as a complete account of lived society."
+      }
+    ],
+    "traditions": [
+      "Vedic",
+      "Puranic",
+      "Dharmashastra"
+    ],
+    "aliases": [
+      "Vaivasvata Manu"
+    ],
+    "relatedIDs": [
+      "prajapati",
+      "brahma",
+      "kalpa",
+      "dharma"
+    ],
+    "bookIDs": [
+      "shatapatha-brahmana",
+      "mahabharata",
+      "manusmriti"
+    ],
+    "sources": [
+      {
+        "title": "Mahabharata, Vana Parva 186 — Manu’s flood, Ganguli",
+        "url": "https://sacred-texts.com/hin/m03/m03186.htm"
+      },
+      {
+        "title": "Harvard Pluralism Project — Dharma",
+        "url": "https://pluralism.org/dharma-the-social-order"
+      }
+    ],
+    "symbol": "book.closed"
+  },
+  {
+    "id": "mahishasura",
+    "name": "Mahishasura",
+    "sanskrit": "महिषासुर · Mahiṣāsura",
+    "kind": "Epic figure",
+    "subtitle": "The buffalo asura overcome by Devi",
+    "summary": "Mahishasura is the shape-changing buffalo asura defeated by the Goddess in the Devi Mahatmya.",
+    "body": [
+      {
+        "title": "The battle",
+        "text": "The narrative portrays Mahisha shifting between forms as the Goddess confronts him. His defeat establishes her power to protect a world the gods could not secure by themselves."
+      },
+      {
+        "title": "From text to image",
+        "text": "Durga standing over or striking a buffalo is often called Mahishasuramardini. This image points to a specific story rather than to animals being inherently evil. Ethical and devotional interpretations vary, and should be named as interpretations."
+      }
+    ],
+    "traditions": [
+      "Shakta",
+      "Devi Mahatmya"
+    ],
+    "aliases": [
+      "Mahisha"
+    ],
+    "relatedIDs": [
+      "durga",
+      "devi",
+      "shakti"
+    ],
+    "bookIDs": [
+      "devi-mahatmya",
+      "markandeya-purana"
+    ],
+    "sources": [
+      {
+        "title": "Devi Mahatmya — The slaying of Mahisha, Pargiter",
+        "url": "https://www.wisdomlib.org/hinduism/book/the-markandeya-purana/d/doc117158.html"
+      }
+    ],
+    "symbol": "person"
+  },
+  {
+    "id": "balarama",
+    "name": "Balarama",
+    "sanskrit": "बलराम · Balarāma",
+    "kind": "Deity",
+    "subtitle": "Krishna’s powerful elder brother",
+    "summary": "Balarama is Krishna’s elder brother and a revered figure in Vaishnava narrative and worship.",
+    "body": [
+      {
+        "title": "A companion with his own presence",
+        "text": "The Vishnu Purana presents Krishna and Balarama acting together against the threats posed by Kamsa. Their paired appearance makes kinship and shared action central to the story, while distinguishing their deeds and attributes."
+      },
+      {
+        "title": "Reading a shared name",
+        "text": "Balarama may also be called Rama or Baladeva in a translation. In those passages, Rama does not mean the prince of Ayodhya. Use the surrounding relationships to resolve the name rather than assuming every occurrence refers to the same figure."
+      }
+    ],
+    "traditions": [
+      "Vaishnava"
+    ],
+    "aliases": [
+      "Baladeva",
+      "Balabhadra",
+      "Sankarshana"
+    ],
+    "relatedIDs": [
+      "krishna",
+      "vishnu",
+      "rama"
+    ],
+    "bookIDs": [
+      "vishnu-purana",
+      "bhagavata-purana",
+      "harivamsha"
+    ],
+    "sources": [
+      {
+        "title": "Vishnu Purana 5.20 — Krishna and Balarama, Wilson",
+        "url": "https://archive.sacred-texts.com/hin/vp/vp137.htm"
+      }
+    ],
+    "symbol": "sparkles"
+  },
+  {
+    "id": "tulsidas",
+    "name": "Tulsidas",
+    "sanskrit": "तुलसीदास · Tulsīdās",
+    "kind": "Sage",
+    "subtitle": "Rama’s story in an intimate language",
+    "summary": "Tulsidas is a major devotional poet, best known for the Ramcharitmanas and his devotion to Rama.",
+    "body": [
+      {
+        "title": "A new poetic telling",
+        "text": "The Ramcharitmanas retells Rama’s story in Awadhi, with its own organization and devotional emphasis. It should be read as a major work in its own right, not treated as a transparent word-for-word translation of Valmiki."
+      },
+      {
+        "title": "A wider body of work",
+        "text": "Tulsidas’s writings also include the Kavitavali and Vinaya Patrika. Manuscript study reveals variation within the transmission of his works. A familiar printed edition is therefore one part of a larger textual and performative history."
+      }
+    ],
+    "traditions": [
+      "Rama bhakti"
+    ],
+    "aliases": [
+      "Goswami Tulsidas",
+      "Tulsi"
+    ],
+    "relatedIDs": [
+      "rama",
+      "sita",
+      "hanuman",
+      "valmiki",
+      "bhakti"
+    ],
+    "bookIDs": [
+      "ramcharitmanas",
+      "hanuman-chalisa"
+    ],
+    "sources": [
+      {
+        "title": "IIT Kanpur Ramcharitmanas project — Tulsidas",
+        "url": "https://www.ramcharitmanas.iitk.ac.in/content/tulsidas"
+      },
+      {
+        "title": "Oxford — Critical edition of Tulsidas’s Kavitavali",
+        "url": "https://tulsidas.orient.ox.ac.uk/"
+      }
+    ],
+    "symbol": "book.closed"
+  },
+  {
+    "id": "andal",
+    "name": "Andal",
+    "sanskrit": "ஆண்டாள் · Āṇṭāḷ (Tamil)",
+    "kind": "Sage",
+    "subtitle": "A Tamil voice of longing",
+    "summary": "Andal is a revered Tamil poet-saint associated with the Tiruppavai and Nacciyar Tirumoli.",
+    "body": [
+      {
+        "title": "Poetry as devotional authority",
+        "text": "Her poems belong to the Sri Vaishnava devotional world and continue to be recited and interpreted. Their language of longing and shared observance makes devotion an active, embodied way of knowing."
+      },
+      {
+        "title": "A woman’s voice at the center",
+        "text": "Andal is remembered among the Alvars and revered with divine significance by devotees. A category such as poet or sage captures only part of that presence. Read her poetry with attention to Tamil literary form and to living interpretation."
+      }
+    ],
+    "traditions": [
+      "Sri Vaishnava",
+      "Tamil bhakti"
+    ],
+    "aliases": [
+      "Antal",
+      "Goda",
+      "Kothai"
+    ],
+    "relatedIDs": [
+      "vishnu",
+      "krishna",
+      "bhakti",
+      "ramanuja"
+    ],
+    "bookIDs": [
+      "tiruppavai",
+      "divya-prabandham"
+    ],
+    "sources": [
+      {
+        "title": "Archana Venkatesan, UC Davis — Andal’s Tiruppavai",
+        "url": "https://archana.faculty.ucdavis.edu/translations/andal-tiruppavai/"
+      },
+      {
+        "title": "Sri Vaishnava Home Page — Tiruppavai",
+        "url": "https://www.ramanuja.org/sv/alvars/andal/tiruppavai.html"
+      }
+    ],
+    "symbol": "book.closed"
+  },
+  {
+    "id": "radha",
+    "name": "Radha",
+    "sanskrit": "राधा · Rādhā",
+    "kind": "Deity",
+    "subtitle": "Devotion through longing and love",
+    "summary": "Radha is revered in many Krishna traditions as Krishna’s beloved and a supreme expression of divine love.",
+    "body": [
+      {
+        "title": "A rich poetic world",
+        "text": "Jayadeva’s Gita Govinda places Radha and Krishna’s relationship at the center of a lyrical work that has shaped music, dance, and painting. Separation and reunion become powerful forms for exploring longing."
+      },
+      {
+        "title": "A distinct theological presence",
+        "text": "Later devotional traditions, including those associated with Chaitanya, give Radha a central theological role. Her prominence differs across sources. Avoid assuming that every episode or name in later Radha-Krishna devotion occurs in the same form in earlier texts."
+      }
+    ],
+    "traditions": [
+      "Krishna bhakti",
+      "Gaudiya Vaishnava"
+    ],
+    "aliases": [
+      "Radhika",
+      "Rādhā"
+    ],
+    "relatedIDs": [
+      "krishna",
+      "bhakti",
+      "shakti"
+    ],
+    "bookIDs": [
+      "gita-govinda",
+      "bhagavata-purana"
+    ],
+    "sources": [
+      {
+        "title": "IGNCA — Gita Govinda",
+        "url": "https://ignca.gov.in/divisionss/cultural-informatics/gita-govinda/"
+      },
+      {
+        "title": "British Museum — Chaitanya and Radha-Krishna devotion",
+        "url": "https://www.britishmuseum.org/collection/object/A_1993-0810-0-4"
+      }
+    ],
+    "symbol": "heart"
+  }
+]
